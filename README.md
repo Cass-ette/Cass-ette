@@ -16,8 +16,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cass-ette&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="Stats" />
-
 ### About Me
 
 ```yaml
@@ -57,26 +55,36 @@ current_focus: Creating awesome projects
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cass-ette&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cass-ette&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cass-ette&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 ---
 
 ### Recent Projects
 
-<p align="center">
-  <a href="https://github.com/Cass-ette/treasure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=treasure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="treasure"/>
+### 📌 My Featured Project
+<div align="center">
+  <!-- 超链接包裹整个卡片，点击任意位置都能跳转 -->
+  <a href="https://github.com/Cass-ette/treasure" target="_blank" style="text-decoration: none; color: inherit;">
+    <div style="
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      padding: 20px;
+      width: 90%;
+      max-width: 400px;
+      margin: 10px auto;
+    ">
+      <!-- 仓库名称（带超链接颜色提示） -->
+      <h4 style="
+        margin: 0 0 15px 0;
+        color: #58A6FF; /* 超链接主色，提示可点击 */
+        font-size: 18px;
+      ">
+        🔮 Cass-ette/treasure
+      </h4>
   </a>
-</p>
+</div>
 
 ---
 
