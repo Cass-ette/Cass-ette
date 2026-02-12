@@ -39,7 +39,7 @@ current_focus: Creating awesome projects
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,java,js,ts,html,css,react,vue,tailwind,nodejs,flask,gin,gorm,mysql,postgres,redis,docker,linux,git,vscode&perline=11&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,java,js,ts,html,css,react,vue,tailwind,npm,nodejs,flask,mysql,postgres,redis,ai,ps,blender,docker,linux,windows,apple,git,github,postman,pycharm,idea,vscode&perline=11&theme=dark" />
 </p>
 
 ---
@@ -73,8 +73,8 @@ current_focus: Creating awesome projects
 ### Recent Projects
 
 <p align="center">
-  <a href="https://github.com/Cass-ette">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=Cass-ette&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="Repo 1"/>
+  <a href="https://github.com/Cass-ette/treasure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=treasure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="treasure"/>
   </a>
 </p>
 
@@ -83,7 +83,7 @@ current_focus: Creating awesome projects
 ### Let's Connect
 
 <p align="center">
-  <a href="mailto:cass.ette@example.com">
+  <a href="mailto:1804534439@qq.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -93,7 +93,7 @@ current_focus: Creating awesome projects
 </p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
+  <i>"GIVE ME A MAJOR!!"</i>
 </p>
 
 <p align="center">
