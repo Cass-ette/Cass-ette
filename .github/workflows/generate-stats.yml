@@ -1,0 +1,24 @@
+name: Generate GitHub Stats Cards
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天自动更新
+  workflow_dispatch:     # 允许手动触发
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Stats Cards
+        uses: soulteary/github-readme-stats@main
+        with:
+          username: "Cass-ette"
+          output_dir: "./stats"
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub Stats Cards"
+          file_pattern: "stats/*.svg"
