@@ -39,7 +39,7 @@ current_focus: Creating awesome projects
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,vscode&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,java,js,ts,html,css,react,vue,tailwind,nodejs,flask,gin,gorm,mysql,postgres,redis,docker,linux,git,vscode&perline=11&theme=dark" />
 </p>
 
 ---
