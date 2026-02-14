@@ -1,0 +1,39 @@
+name: Generate 3D Contribution Graph
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天自动更新
+  workflow_dispatch:     # 允许手动触发
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi3897/github-profile-3d-contrib@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: |
+            {
+              "maxColors": [
+                {"min": 0, "color": "#0D1117"},
+                {"min": 1, "color": "#0e4429"},
+                {"min": 10, "color": "#006d32"},
+                {"min": 20, "color": "#26a641"},
+                {"min": 30, "color": "#39d353"}
+              ]
+            }
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update 3D contribution graph"
+          file_pattern: "*.svg profile-3d-contrib/*.svg"
+          commit_user_name: "GitHub Actions"
+          commit_user_email: "actions@github.com"

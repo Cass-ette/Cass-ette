@@ -60,6 +60,14 @@ current_focus: Creating awesome projects
 
 ---
 
+### 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cass-ette/Cass-ette/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+</p>
+
+---
+
 ### Recent Projects
 
 ### 📌 My Featured Project
