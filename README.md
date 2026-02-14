@@ -58,13 +58,19 @@ current_focus: Creating awesome projects
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cass-ette&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cass-ette&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" />
+</p>
+
 ---
 
 ### 3D Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cass-ette/Cass-ette/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</picture>
 
 ---
 
