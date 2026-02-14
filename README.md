@@ -58,10 +58,6 @@ current_focus: Creating awesome projects
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cass-ette&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cass-ette&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
 ---
 
 ### 3D Contribution Graph
