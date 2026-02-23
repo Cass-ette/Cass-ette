@@ -33,6 +33,7 @@ hobbies:
   - Turning coffee into code
   - Debugging at 3 AM
   - Making things work
+  - Playing Counter-Strike
 current_focus: Creating awesome projects
 ```
 
