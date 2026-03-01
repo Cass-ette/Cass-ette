@@ -1,11 +1,8 @@
 name: Generate 3D Contribution Graph
 on:
   schedule:
-    - cron: "0 */2 * * *"  # 每2小时自动更新
+    - cron: "0 */12 * * *"  # 每12小时自动更新
   workflow_dispatch:     # 允许手动触发
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
