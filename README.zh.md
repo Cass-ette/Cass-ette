@@ -79,7 +79,7 @@ current_focus: 创造更多有趣的项目
 
 <p align="center">
   <a href="https://github.com/Cass-ette/treasure">
-    <img src="https://img.shields.io/badge/📦_Cass--ette%2Ftreasure-181717?style=for-the-badge&logo=github&logoColor=white" alt="treasure" />
+    <img src="https://img.shields.io/badge/💰_Cass--ette%2Ftreasure-181717?style=for-the-badge&logo=github&logoColor=white" alt="treasure" />
   </a>
   <br>
   <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">
