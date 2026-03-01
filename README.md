@@ -75,11 +75,19 @@ current_focus: Creating awesome projects
 
 ---
 
-### Featured Project
+### Featured Projects
 
 <p align="center">
   <a href="https://github.com/Cass-ette/treasure">
-    <img src="https://img.shields.io/badge/🔮_Cass--ette%2Ftreasure-181717?style=for-the-badge&logo=github&logoColor=white" alt="treasure" />
+    <img src="https://img.shields.io/badge/📦_Cass--ette%2Ftreasure-181717?style=for-the-badge&logo=github&logoColor=white" alt="treasure" />
+  </a>
+  <br>
+  <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">
+    <img src="https://img.shields.io/badge/🛡️_Cass--ette%2FBlueLotus__XSSReceiver-181717?style=for-the-badge&logo=github&logoColor=white" alt="BlueLotus_XSSReceiver" />
+  </a>
+  <br>
+  <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">
+    <img src="https://img.shields.io/badge/🎮_Cass--ette%2FArknightsMaaRemoter---181717?style=for-the-badge&logo=github&logoColor=white" alt="ArknightsMaaRemoter-" />
   </a>
 </p>
 
