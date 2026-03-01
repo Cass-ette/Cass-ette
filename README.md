@@ -79,7 +79,7 @@ current_focus: Creating awesome projects
 
 <p align="center">
   <a href="https://github.com/Cass-ette/treasure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=treasure&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://img.shields.io/badge/🔮_Cass--ette%2Ftreasure-181717?style=for-the-badge&logo=github&logoColor=white" alt="treasure" />
   </a>
 </p>
 
