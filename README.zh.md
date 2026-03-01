@@ -33,6 +33,7 @@ hobbies:
   - 把咖啡变成代码
   - 凌晨三点调 bug
   - 让一切跑起来
+  - 打反恐精英
 current_focus: 创造更多有趣的项目
 ```
 
@@ -113,7 +114,7 @@ current_focus: 创造更多有趣的项目
 </p>
 
 <p align="center">
-  <i>"给我一个专业！！"</i>
+  <i>"给我一个MAJOR冠军！！"</i>
 </p>
 
 <p align="center">
