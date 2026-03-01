@@ -68,36 +68,20 @@ current_focus: 创造更多有趣的项目
 ### 3D 贡献图
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette/profile-3d-contrib/profile-night-rainbow.svg" alt="3D 贡献图" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette@main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette@main/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette@main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D 贡献图" />
 </picture>
 
 ---
 
-### 近期项目
+### 精选项目
 
-### 📌 精选项目
-<div align="center">
-  <a href="https://github.com/Cass-ette/treasure" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="
-      background: #161b22;
-      border: 1px solid #30363d;
-      border-radius: 8px;
-      padding: 20px;
-      width: 90%;
-      max-width: 400px;
-      margin: 10px auto;
-    ">
-      <h4 style="
-        margin: 0 0 15px 0;
-        color: #58A6FF;
-        font-size: 18px;
-      ">
-        🔮 Cass-ette/treasure
-      </h4>
+<p align="center">
+  <a href="https://github.com/Cass-ette/treasure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=treasure&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-</div>
+</p>
 
 ---
 
