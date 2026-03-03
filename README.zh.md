@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/Cass-ette">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=嗨+%F0%9F%91%8B+我是+Cass-ette" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=鄙人不才+%F0%9F%91%8B+名Cass-ette是也" alt="Typing SVG" />
   </a>
 </h1>
 
