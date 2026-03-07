@@ -78,6 +78,14 @@ current_focus: 创造更多有趣的项目
 ### 精选项目
 
 <p align="center">
+  <a href="https://github.com/Cass-ette/campus-printer-system">
+    <img src="https://img.shields.io/badge/🖨️_Cass--ette%2Fcampus--printer--system-181717?style=for-the-badge&logo=github&logoColor=white" alt="campus-printer-system" />
+  </a>
+  <br>
+  <a href="https://github.com/Cass-ette/NetKitX">
+    <img src="https://img.shields.io/badge/🔒_Cass--ette%2FNetKitX-181717?style=for-the-badge&logo=github&logoColor=white" alt="NetKitX" />
+  </a>
+  <br>
   <a href="https://github.com/Cass-ette/treasure">
     <img src="https://img.shields.io/badge/💰_Cass--ette%2Ftreasure-181717?style=for-the-badge&logo=github&logoColor=white" alt="treasure" />
   </a>
