@@ -77,29 +77,46 @@ current_focus: Creating awesome projects
 
 ### Featured Projects
 
+**🔒 Security**
+
+<p align="center">
+  <a href="https://github.com/Cass-ette/NetKitX">
+    <img src="https://img.shields.io/badge/🔒_Cass--ette%2FNetKitX-181717?style=for-the-badge&logo=github&logoColor=white" alt="NetKitX" />
+  </a>
+  <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">
+    <img src="https://img.shields.io/badge/🛡️_Cass--ette%2FBlueLotus__XSSReceiver-181717?style=for-the-badge&logo=github&logoColor=white" alt="BlueLotus_XSSReceiver" />
+  </a>
+</p>
+
+**🛠️ Dev Tools**
+
+<p align="center">
+  <a href="https://github.com/Cass-ette/DevMacpp">
+    <img src="https://img.shields.io/badge/💻_Cass--ette%2FDevMacpp-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevMacpp" />
+  </a>
+</p>
+
+**🎓 Campus**
+
 <p align="center">
   <a href="https://github.com/Cass-ette/campus-printer-system">
     <img src="https://img.shields.io/badge/🖨️_Cass--ette%2Fcampus--printer--system-181717?style=for-the-badge&logo=github&logoColor=white" alt="campus-printer-system" />
   </a>
-  <br>
-  <a href="https://github.com/Cass-ette/NetKitX">
-    <img src="https://img.shields.io/badge/🔒_Cass--ette%2FNetKitX-181717?style=for-the-badge&logo=github&logoColor=white" alt="NetKitX" />
-  </a>
-  <br>
+</p>
+
+**💰 Finance**
+
+<p align="center">
   <a href="https://github.com/Cass-ette/treasure">
     <img src="https://img.shields.io/badge/💰_Cass--ette%2Ftreasure-181717?style=for-the-badge&logo=github&logoColor=white" alt="treasure" />
   </a>
-  <br>
-  <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">
-    <img src="https://img.shields.io/badge/🛡️_Cass--ette%2FBlueLotus__XSSReceiver-181717?style=for-the-badge&logo=github&logoColor=white" alt="BlueLotus_XSSReceiver" />
-  </a>
-  <br>
+</p>
+
+**🎮 Fun**
+
+<p align="center">
   <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">
     <img src="https://img.shields.io/badge/🎮_Cass--ette%2FArknightsMaaRemoter---181717?style=for-the-badge&logo=github&logoColor=white" alt="ArknightsMaaRemoter-" />
-  </a>
-  <br>
-  <a href="https://github.com/Cass-ette/DevMacpp">
-    <img src="https://img.shields.io/badge/💻_Cass--ette%2FDevMacpp-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevMacpp" />
   </a>
 </p>
 
