@@ -1,5 +1,15 @@
 # Claude Code 工作记录
 
+## 2026-03-19
+
+### 完成的工作
+
+1. **添加 DevMacpp 到精选项目**
+   - 仓库：`git@github.com:Cass-ette/DevMacpp.git`（Mac C++ 编辑器）
+   - 使用 💻 emoji，同步更新 README.md 和 README.zh.md
+
+---
+
 ## 2026-03-01
 
 ### 完成的工作
