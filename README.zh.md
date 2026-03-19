@@ -97,6 +97,10 @@ current_focus: 创造更多有趣的项目
   <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">
     <img src="https://img.shields.io/badge/🎮_Cass--ette%2FArknightsMaaRemoter---181717?style=for-the-badge&logo=github&logoColor=white" alt="ArknightsMaaRemoter-" />
   </a>
+  <br>
+  <a href="https://github.com/Cass-ette/DevMacpp">
+    <img src="https://img.shields.io/badge/💻_Cass--ette%2FDevMacpp-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevMacpp" />
+  </a>
 </p>
 
 ---
