@@ -42,7 +42,7 @@ current_focus: Creating awesome projects
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,java,js,ts,html,css,react,vue,tailwind,npm,nodejs,flask,mysql,postgres,redis,ai,ps,blender,docker,linux,windows,apple,git,github,postman,pycharm,idea,vscode&perline=11&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,java,js,ts,html,css,react,vue,tailwind,npm,nodejs,flask,mysql,postgres,redis,ai,ps,blender,unreal,docker,linux,windows,apple,git,github,postman,pycharm,idea,vscode&perline=11&theme=dark" />
 </p>
 
 ---
