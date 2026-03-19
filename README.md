@@ -77,7 +77,7 @@ current_focus: Creating awesome projects
 
 ### Featured Projects
 
-**🔒 Security**
+<p align="center"><b>🔒 Security</b></p>
 
 <p align="center">
   <a href="https://github.com/Cass-ette/NetKitX">
@@ -88,7 +88,9 @@ current_focus: Creating awesome projects
   </a>
 </p>
 
-**🛠️ Dev Tools**
+<p align="center"><sub>· · ·</sub></p>
+
+<p align="center"><b>🛠️ Dev Tools</b></p>
 
 <p align="center">
   <a href="https://github.com/Cass-ette/DevMacpp">
@@ -96,7 +98,9 @@ current_focus: Creating awesome projects
   </a>
 </p>
 
-**🎓 Campus**
+<p align="center"><sub>· · ·</sub></p>
+
+<p align="center"><b>🎓 Campus</b></p>
 
 <p align="center">
   <a href="https://github.com/Cass-ette/campus-printer-system">
@@ -104,7 +108,9 @@ current_focus: Creating awesome projects
   </a>
 </p>
 
-**💰 Finance**
+<p align="center"><sub>· · ·</sub></p>
+
+<p align="center"><b>💰 Finance</b></p>
 
 <p align="center">
   <a href="https://github.com/Cass-ette/treasure">
@@ -112,7 +118,9 @@ current_focus: Creating awesome projects
   </a>
 </p>
 
-**🎮 Fun**
+<p align="center"><sub>· · ·</sub></p>
+
+<p align="center"><b>🎮 Fun</b></p>
 
 <p align="center">
   <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">
