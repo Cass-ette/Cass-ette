@@ -77,55 +77,88 @@ current_focus: 创造更多有趣的项目
 
 ### 精选项目
 
-<p align="center"><b>🔒 Security</b></p>
+<p align="center"><b>🔐 安全</b></p>
 
 <p align="center">
   <a href="https://github.com/Cass-ette/NetKitX">
-    <img src="https://img.shields.io/badge/🔒_Cass--ette%2FNetKitX-181717?style=for-the-badge&logo=github&logoColor=white" alt="NetKitX" />
+    <img src="https://img.shields.io/badge/🔒_NetKitX-181717?style=for-the-badge&logo=github&logoColor=white" alt="NetKitX" />
+  </a>
+  <a href="https://github.com/Cass-ette/NetKitX-Plugins">
+    <img src="https://img.shields.io/badge/🔌_NetKitX--Plugins-181717?style=for-the-badge&logo=github&logoColor=white" alt="NetKitX-Plugins" />
   </a>
   <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">
-    <img src="https://img.shields.io/badge/🛡️_Cass--ette%2FBlueLotus__XSSReceiver-181717?style=for-the-badge&logo=github&logoColor=white" alt="BlueLotus_XSSReceiver" />
-  </a>
+    <img src="https://img.shields.io/badge/🛡️_BlueLotus__XSSReceiver-181717?style=for-the-badge&logo=github&logoColor=white" alt="BlueLotus_XSSReceiver" />
+  </a> <sup>fork</sup>
 </p>
 
 <p align="center"><sub>· · ·</sub></p>
 
-<p align="center"><b>🛠️ Dev Tools</b></p>
-
-<p align="center">
-  <a href="https://github.com/Cass-ette/DevMacpp">
-    <img src="https://img.shields.io/badge/💻_Cass--ette%2FDevMacpp-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevMacpp" />
-  </a>
-</p>
-
-<p align="center"><sub>· · ·</sub></p>
-
-<p align="center"><b>🎓 Campus</b></p>
-
-<p align="center">
-  <a href="https://github.com/Cass-ette/campus-printer-system">
-    <img src="https://img.shields.io/badge/🖨️_Cass--ette%2Fcampus--printer--system-181717?style=for-the-badge&logo=github&logoColor=white" alt="campus-printer-system" />
-  </a>
-</p>
-
-<p align="center"><sub>· · ·</sub></p>
-
-<p align="center"><b>💰 Finance</b></p>
+<p align="center"><b>💰 金融</b></p>
 
 <p align="center">
   <a href="https://github.com/Cass-ette/treasure">
-    <img src="https://img.shields.io/badge/💰_Cass--ette%2Ftreasure-181717?style=for-the-badge&logo=github&logoColor=white" alt="treasure" />
+    <img src="https://img.shields.io/badge/💰_treasure-181717?style=for-the-badge&logo=github&logoColor=white" alt="treasure" />
+  </a>
+  <a href="https://github.com/Cass-ette/QuanTrader">
+    <img src="https://img.shields.io/badge/📊_QuanTrader-181717?style=for-the-badge&logo=github&logoColor=white" alt="QuanTrader" />
+  </a>
+  <a href="https://github.com/Cass-ette/FortuneTale-">
+    <img src="https://img.shields.io/badge/💎_FortuneTale---181717?style=for-the-badge&logo=github&logoColor=white" alt="FortuneTale-" />
   </a>
 </p>
 
 <p align="center"><sub>· · ·</sub></p>
 
-<p align="center"><b>🎮 Fun</b></p>
+<p align="center"><b>🛠️ 工具</b></p>
+
+<p align="center">
+  <a href="https://github.com/Cass-ette/DevMacpp">
+    <img src="https://img.shields.io/badge/💻_DevMacpp-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevMacpp" />
+  </a>
+  <a href="https://github.com/Cass-ette/campus-printer-system">
+    <img src="https://img.shields.io/badge/🖨️_campus--printer--system-181717?style=for-the-badge&logo=github&logoColor=white" alt="campus-printer-system" />
+  </a>
+  <a href="https://github.com/Cass-ette/schedule-to-calendar">
+    <img src="https://img.shields.io/badge/📅_schedule--to--calendar-181717?style=for-the-badge&logo=github&logoColor=white" alt="schedule-to-calendar" />
+  </a>
+  <a href="https://github.com/Cass-ette/Tried-Solutions">
+    <img src="https://img.shields.io/badge/📋_Tried--Solutions-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tried-Solutions" />
+  </a>
+</p>
+
+<p align="center"><sub>· · ·</sub></p>
+
+<p align="center"><b>🌐 Web</b></p>
+
+<p align="center">
+  <a href="https://github.com/Cass-ette/blog.github.io-">
+    <img src="https://img.shields.io/badge/✍️_blog.github.io---181717?style=for-the-badge&logo=github&logoColor=white" alt="blog.github.io-" />
+  </a>
+  <a href="https://github.com/Cass-ette/flask-api-review">
+    <img src="https://img.shields.io/badge/📝_flask--api--review-181717?style=for-the-badge&logo=github&logoColor=white" alt="flask-api-review" />
+  </a>
+  <a href="https://github.com/Cass-ette/flask_device_api">
+    <img src="https://img.shields.io/badge/⚡_flask__device__api-181717?style=for-the-badge&logo=github&logoColor=white" alt="flask_device_api" />
+  </a>
+  <a href="https://github.com/Cass-ette/abdoj">
+    <img src="https://img.shields.io/badge/🌍_abdoj-181717?style=for-the-badge&logo=github&logoColor=white" alt="abdoj" />
+  </a>
+  <a href="https://github.com/Cass-ette/live-dashboard">
+    <img src="https://img.shields.io/badge/📺_live--dashboard-181717?style=for-the-badge&logo=github&logoColor=white" alt="live-dashboard" />
+  </a> <sup>fork</sup>
+</p>
+
+<p align="center"><sub>· · ·</sub></p>
+
+<p align="center"><b>🎮 游戏</b></p>
 
 <p align="center">
   <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">
-    <img src="https://img.shields.io/badge/🎮_Cass--ette%2FArknightsMaaRemoter---181717?style=for-the-badge&logo=github&logoColor=white" alt="ArknightsMaaRemoter-" />
+    <img src="https://img.shields.io/badge/🎮_ArknightsMaaRemoter---181717?style=for-the-badge&logo=github&logoColor=white" alt="ArknightsMaaRemoter-" />
   </a>
+  <a href="https://github.com/Cass-ette/MaaAssistantArknights">
+    <img src="https://img.shields.io/badge/🤖_MaaAssistantArknights-181717?style=for-the-badge&logo=github&logoColor=white" alt="MaaAssistantArknights" />
+  </a> <sup>fork</sup>
 </p>
 
 ---
