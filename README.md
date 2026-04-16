@@ -78,28 +78,28 @@ current_focus: Creating awesome projects
 ### Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Cass-ette/NetKitX">
+  <a href="https://github.com/Cass-ette/github-real-stars">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="NetKitX" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=github-real-stars&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=github-real-stars&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=github-real-stars&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="github-real-stars" />
     </picture>
   </a>
-  <a href="https://github.com/Cass-ette/QuanTrader">
+  <a href="https://github.com/Cass-ette/fastlol">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=QuanTrader&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=QuanTrader&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=QuanTrader&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="QuanTrader" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=fastlol&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=fastlol&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=fastlol&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="fastlol" />
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cass-ette/treasure">
+  <a href="https://github.com/Cass-ette/NetKitX">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=treasure&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=treasure&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=treasure&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="treasure" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="NetKitX" />
     </picture>
   </a>
   <a href="https://github.com/Cass-ette/DevMacpp">
@@ -115,13 +115,18 @@ current_focus: Creating awesome projects
   <summary><b>Browse More Repositories</b></summary>
   <br />
   <p align="center">
+    <code>Latest</code>
+    <a href="https://github.com/Cass-ette/mobile-vscode">mobile-vscode</a> ·
+    <a href="https://github.com/Cass-ette/DualPaper">DualPaper</a> ·
+    <a href="https://github.com/Cass-ette/NetKitX-Plugins">NetKitX Plugins</a><br />
     <code>Security</code>
-    <a href="https://github.com/Cass-ette/NetKitX-Plugins">NetKitX Plugins</a> ·
     <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">BlueLotus XSS Receiver</a> <sup>fork</sup><br />
     <code>Finance</code>
-    <a href="https://github.com/Cass-ette/FortuneTale-">FortuneTale</a> ·
-    <a href="https://github.com/Cass-ette/schedule-to-calendar">Schedule to Calendar</a><br />
+    <a href="https://github.com/Cass-ette/treasure">Treasure</a> ·
+    <a href="https://github.com/Cass-ette/QuanTrader">QuanTrader</a> ·
+    <a href="https://github.com/Cass-ette/FortuneTale-">FortuneTale</a><br />
     <code>Tools</code>
+    <a href="https://github.com/Cass-ette/schedule-to-calendar">Schedule to Calendar</a> ·
     <a href="https://github.com/Cass-ette/campus-printer-system">Campus Printer System</a> ·
     <a href="https://github.com/Cass-ette/Tried-Solutions">Tried Solutions</a><br />
     <code>Web</code>
