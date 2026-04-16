@@ -78,74 +78,59 @@ current_focus: 创造更多有趣的项目
 ### 精选项目
 
 <p align="center">
-  <sub>收窄成真正的精选区，让重点项目先被看到。</sub>
+  <a href="https://github.com/Cass-ette/NetKitX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="NetKitX" />
+    </picture>
+  </a>
+  <a href="https://github.com/Cass-ette/QuanTrader">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=QuanTrader&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=QuanTrader&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=QuanTrader&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="QuanTrader" />
+    </picture>
+  </a>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Cass-ette/NetKitX"><b>NetKitX</b></a><br />
-      <sub>偏安全方向的工具与插件化实验。</sub><br />
-      <sub><code>安全</code> <code>插件</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Cass-ette/treasure"><b>Treasure</b></a><br />
-      <sub>围绕金融场景做的一些实用工具与尝试。</sub><br />
-      <sub><code>金融</code> <code>工具</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Cass-ette/QuanTrader"><b>QuanTrader</b></a><br />
-      <sub>量化与交易方向的探索项目。</sub><br />
-      <sub><code>量化</code> <code>交易</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Cass-ette/DevMacpp"><b>DevMacpp</b></a><br />
-      <sub>桌面端和开发效率相关的工具实验。</sub><br />
-      <sub><code>工具链</code> <code>桌面</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Cass-ette/schedule-to-calendar"><b>Schedule to Calendar</b></a><br />
-      <sub>把课表或日程自动转成日历事件的效率工具。</sub><br />
-      <sub><code>自动化</code> <code>效率</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Cass-ette/campus-printer-system"><b>Campus Printer System</b></a><br />
-      <sub>围绕校园工作流做的实用型项目。</sub><br />
-      <sub><code>实用项目</code> <code>工作流</code></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Cass-ette/treasure">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=treasure&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=treasure&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=treasure&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="treasure" />
+    </picture>
+  </a>
+  <a href="https://github.com/Cass-ette/DevMacpp">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=DevMacpp&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=DevMacpp&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=DevMacpp&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="DevMacpp" />
+    </picture>
+  </a>
+</p>
 
 <details>
   <summary><b>查看更多仓库</b></summary>
   <br />
-  <p>
-    <b>安全:</b>
+  <p align="center">
+    <code>安全</code>
     <a href="https://github.com/Cass-ette/NetKitX-Plugins">NetKitX Plugins</a> ·
-    <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">BlueLotus XSS Receiver</a> <sup>fork</sup>
-  </p>
-  <p>
-    <b>金融:</b>
-    <a href="https://github.com/Cass-ette/FortuneTale-">FortuneTale</a>
-  </p>
-  <p>
-    <b>工具:</b>
-    <a href="https://github.com/Cass-ette/Tried-Solutions">Tried Solutions</a>
-  </p>
-  <p>
-    <b>Web:</b>
+    <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">BlueLotus XSS Receiver</a> <sup>fork</sup><br />
+    <code>金融</code>
+    <a href="https://github.com/Cass-ette/FortuneTale-">FortuneTale</a> ·
+    <a href="https://github.com/Cass-ette/schedule-to-calendar">Schedule to Calendar</a><br />
+    <code>工具</code>
+    <a href="https://github.com/Cass-ette/campus-printer-system">Campus Printer System</a> ·
+    <a href="https://github.com/Cass-ette/Tried-Solutions">Tried Solutions</a><br />
+    <code>Web</code>
     <a href="https://github.com/Cass-ette/blog.github.io-">Blog</a> ·
     <a href="https://github.com/Cass-ette/flask-api-review">Flask API Review</a> ·
     <a href="https://github.com/Cass-ette/flask_device_api">Flask Device API</a> ·
     <a href="https://github.com/Cass-ette/abdoj">ABDOJ</a> ·
-    <a href="https://github.com/Cass-ette/live-dashboard">Live Dashboard</a> <sup>fork</sup>
-  </p>
-  <p>
-    <b>游戏:</b>
+    <a href="https://github.com/Cass-ette/live-dashboard">Live Dashboard</a> <sup>fork</sup><br />
+    <code>游戏</code>
     <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">Arknights Maa Remoter</a> ·
     <a href="https://github.com/Cass-ette/MaaAssistantArknights">MaaAssistantArknights</a> <sup>fork</sup>
   </p>
