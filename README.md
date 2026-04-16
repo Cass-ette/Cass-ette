@@ -77,89 +77,79 @@ current_focus: Creating awesome projects
 
 ### Featured Projects
 
-<p align="center"><b>🔐 Security</b></p>
-
 <p align="center">
-  <a href="https://github.com/Cass-ette/NetKitX">
-    <img src="https://img.shields.io/badge/🔒_NetKitX-181717?style=for-the-badge&logo=github&logoColor=white" alt="NetKitX" />
-  </a>
-  <a href="https://github.com/Cass-ette/NetKitX-Plugins">
-    <img src="https://img.shields.io/badge/🔌_NetKitX--Plugins-181717?style=for-the-badge&logo=github&logoColor=white" alt="NetKitX-Plugins" />
-  </a>
-  <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">
-    <img src="https://img.shields.io/badge/🛡️_BlueLotus__XSSReceiver-181717?style=for-the-badge&logo=github&logoColor=white" alt="BlueLotus_XSSReceiver" />
-  </a> <sup>fork</sup>
+  <sub>A smaller, cleaner set of repositories worth opening first.</sub>
 </p>
 
-<p align="center"><sub>· · ·</sub></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/NetKitX"><b>NetKitX</b></a><br />
+      <sub>Security tooling and plugin-oriented experiments.</sub><br />
+      <sub><code>Security</code> <code>Plugins</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/treasure"><b>Treasure</b></a><br />
+      <sub>Finance-focused utilities and practical experiments.</sub><br />
+      <sub><code>Finance</code> <code>Utilities</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/QuanTrader"><b>QuanTrader</b></a><br />
+      <sub>Quant and trading-related exploration.</sub><br />
+      <sub><code>Quant</code> <code>Trading</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/DevMacpp"><b>DevMacpp</b></a><br />
+      <sub>Desktop and development tooling experiments.</sub><br />
+      <sub><code>Tooling</code> <code>Desktop</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/schedule-to-calendar"><b>Schedule to Calendar</b></a><br />
+      <sub>Automation for turning schedules into calendar events.</sub><br />
+      <sub><code>Automation</code> <code>Productivity</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/campus-printer-system"><b>Campus Printer System</b></a><br />
+      <sub>Practical tooling built around campus workflows.</sub><br />
+      <sub><code>Utilities</code> <code>Workflow</code></sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><b>💰 Finance</b></p>
-
-<p align="center">
-  <a href="https://github.com/Cass-ette/treasure">
-    <img src="https://img.shields.io/badge/💰_treasure-181717?style=for-the-badge&logo=github&logoColor=white" alt="treasure" />
-  </a>
-  <a href="https://github.com/Cass-ette/QuanTrader">
-    <img src="https://img.shields.io/badge/📊_QuanTrader-181717?style=for-the-badge&logo=github&logoColor=white" alt="QuanTrader" />
-  </a>
-  <a href="https://github.com/Cass-ette/FortuneTale-">
-    <img src="https://img.shields.io/badge/💎_FortuneTale---181717?style=for-the-badge&logo=github&logoColor=white" alt="FortuneTale-" />
-  </a>
-</p>
-
-<p align="center"><sub>· · ·</sub></p>
-
-<p align="center"><b>🛠️ Tools</b></p>
-
-<p align="center">
-  <a href="https://github.com/Cass-ette/DevMacpp">
-    <img src="https://img.shields.io/badge/💻_DevMacpp-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevMacpp" />
-  </a>
-  <a href="https://github.com/Cass-ette/campus-printer-system">
-    <img src="https://img.shields.io/badge/🖨️_campus--printer--system-181717?style=for-the-badge&logo=github&logoColor=white" alt="campus-printer-system" />
-  </a>
-  <a href="https://github.com/Cass-ette/schedule-to-calendar">
-    <img src="https://img.shields.io/badge/📅_schedule--to--calendar-181717?style=for-the-badge&logo=github&logoColor=white" alt="schedule-to-calendar" />
-  </a>
-  <a href="https://github.com/Cass-ette/Tried-Solutions">
-    <img src="https://img.shields.io/badge/📋_Tried--Solutions-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tried-Solutions" />
-  </a>
-</p>
-
-<p align="center"><sub>· · ·</sub></p>
-
-<p align="center"><b>🌐 Web</b></p>
-
-<p align="center">
-  <a href="https://github.com/Cass-ette/blog.github.io-">
-    <img src="https://img.shields.io/badge/✍️_blog.github.io---181717?style=for-the-badge&logo=github&logoColor=white" alt="blog.github.io-" />
-  </a>
-  <a href="https://github.com/Cass-ette/flask-api-review">
-    <img src="https://img.shields.io/badge/📝_flask--api--review-181717?style=for-the-badge&logo=github&logoColor=white" alt="flask-api-review" />
-  </a>
-  <a href="https://github.com/Cass-ette/flask_device_api">
-    <img src="https://img.shields.io/badge/⚡_flask__device__api-181717?style=for-the-badge&logo=github&logoColor=white" alt="flask_device_api" />
-  </a>
-  <a href="https://github.com/Cass-ette/abdoj">
-    <img src="https://img.shields.io/badge/🌍_abdoj-181717?style=for-the-badge&logo=github&logoColor=white" alt="abdoj" />
-  </a>
-  <a href="https://github.com/Cass-ette/live-dashboard">
-    <img src="https://img.shields.io/badge/📺_live--dashboard-181717?style=for-the-badge&logo=github&logoColor=white" alt="live-dashboard" />
-  </a> <sup>fork</sup>
-</p>
-
-<p align="center"><sub>· · ·</sub></p>
-
-<p align="center"><b>🎮 Gaming</b></p>
-
-<p align="center">
-  <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">
-    <img src="https://img.shields.io/badge/🎮_ArknightsMaaRemoter---181717?style=for-the-badge&logo=github&logoColor=white" alt="ArknightsMaaRemoter-" />
-  </a>
-  <a href="https://github.com/Cass-ette/MaaAssistantArknights">
-    <img src="https://img.shields.io/badge/🤖_MaaAssistantArknights-181717?style=for-the-badge&logo=github&logoColor=white" alt="MaaAssistantArknights" />
-  </a> <sup>fork</sup>
-</p>
+<details>
+  <summary><b>Browse More Repositories</b></summary>
+  <br />
+  <p>
+    <b>Security:</b>
+    <a href="https://github.com/Cass-ette/NetKitX-Plugins">NetKitX Plugins</a> ·
+    <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">BlueLotus XSS Receiver</a> <sup>fork</sup>
+  </p>
+  <p>
+    <b>Finance:</b>
+    <a href="https://github.com/Cass-ette/FortuneTale-">FortuneTale</a>
+  </p>
+  <p>
+    <b>Tools:</b>
+    <a href="https://github.com/Cass-ette/Tried-Solutions">Tried Solutions</a>
+  </p>
+  <p>
+    <b>Web:</b>
+    <a href="https://github.com/Cass-ette/blog.github.io-">Blog</a> ·
+    <a href="https://github.com/Cass-ette/flask-api-review">Flask API Review</a> ·
+    <a href="https://github.com/Cass-ette/flask_device_api">Flask Device API</a> ·
+    <a href="https://github.com/Cass-ette/abdoj">ABDOJ</a> ·
+    <a href="https://github.com/Cass-ette/live-dashboard">Live Dashboard</a> <sup>fork</sup>
+  </p>
+  <p>
+    <b>Gaming:</b>
+    <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">Arknights Maa Remoter</a> ·
+    <a href="https://github.com/Cass-ette/MaaAssistantArknights">MaaAssistantArknights</a> <sup>fork</sup>
+  </p>
+</details>
 
 ---
 

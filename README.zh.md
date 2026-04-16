@@ -77,89 +77,79 @@ current_focus: 创造更多有趣的项目
 
 ### 精选项目
 
-<p align="center"><b>🔐 安全</b></p>
-
 <p align="center">
-  <a href="https://github.com/Cass-ette/NetKitX">
-    <img src="https://img.shields.io/badge/🔒_NetKitX-181717?style=for-the-badge&logo=github&logoColor=white" alt="NetKitX" />
-  </a>
-  <a href="https://github.com/Cass-ette/NetKitX-Plugins">
-    <img src="https://img.shields.io/badge/🔌_NetKitX--Plugins-181717?style=for-the-badge&logo=github&logoColor=white" alt="NetKitX-Plugins" />
-  </a>
-  <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">
-    <img src="https://img.shields.io/badge/🛡️_BlueLotus__XSSReceiver-181717?style=for-the-badge&logo=github&logoColor=white" alt="BlueLotus_XSSReceiver" />
-  </a> <sup>fork</sup>
+  <sub>收窄成真正的精选区，让重点项目先被看到。</sub>
 </p>
 
-<p align="center"><sub>· · ·</sub></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/NetKitX"><b>NetKitX</b></a><br />
+      <sub>偏安全方向的工具与插件化实验。</sub><br />
+      <sub><code>安全</code> <code>插件</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/treasure"><b>Treasure</b></a><br />
+      <sub>围绕金融场景做的一些实用工具与尝试。</sub><br />
+      <sub><code>金融</code> <code>工具</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/QuanTrader"><b>QuanTrader</b></a><br />
+      <sub>量化与交易方向的探索项目。</sub><br />
+      <sub><code>量化</code> <code>交易</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/DevMacpp"><b>DevMacpp</b></a><br />
+      <sub>桌面端和开发效率相关的工具实验。</sub><br />
+      <sub><code>工具链</code> <code>桌面</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/schedule-to-calendar"><b>Schedule to Calendar</b></a><br />
+      <sub>把课表或日程自动转成日历事件的效率工具。</sub><br />
+      <sub><code>自动化</code> <code>效率</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cass-ette/campus-printer-system"><b>Campus Printer System</b></a><br />
+      <sub>围绕校园工作流做的实用型项目。</sub><br />
+      <sub><code>实用项目</code> <code>工作流</code></sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><b>💰 金融</b></p>
-
-<p align="center">
-  <a href="https://github.com/Cass-ette/treasure">
-    <img src="https://img.shields.io/badge/💰_treasure-181717?style=for-the-badge&logo=github&logoColor=white" alt="treasure" />
-  </a>
-  <a href="https://github.com/Cass-ette/QuanTrader">
-    <img src="https://img.shields.io/badge/📊_QuanTrader-181717?style=for-the-badge&logo=github&logoColor=white" alt="QuanTrader" />
-  </a>
-  <a href="https://github.com/Cass-ette/FortuneTale-">
-    <img src="https://img.shields.io/badge/💎_FortuneTale---181717?style=for-the-badge&logo=github&logoColor=white" alt="FortuneTale-" />
-  </a>
-</p>
-
-<p align="center"><sub>· · ·</sub></p>
-
-<p align="center"><b>🛠️ 工具</b></p>
-
-<p align="center">
-  <a href="https://github.com/Cass-ette/DevMacpp">
-    <img src="https://img.shields.io/badge/💻_DevMacpp-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevMacpp" />
-  </a>
-  <a href="https://github.com/Cass-ette/campus-printer-system">
-    <img src="https://img.shields.io/badge/🖨️_campus--printer--system-181717?style=for-the-badge&logo=github&logoColor=white" alt="campus-printer-system" />
-  </a>
-  <a href="https://github.com/Cass-ette/schedule-to-calendar">
-    <img src="https://img.shields.io/badge/📅_schedule--to--calendar-181717?style=for-the-badge&logo=github&logoColor=white" alt="schedule-to-calendar" />
-  </a>
-  <a href="https://github.com/Cass-ette/Tried-Solutions">
-    <img src="https://img.shields.io/badge/📋_Tried--Solutions-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tried-Solutions" />
-  </a>
-</p>
-
-<p align="center"><sub>· · ·</sub></p>
-
-<p align="center"><b>🌐 Web</b></p>
-
-<p align="center">
-  <a href="https://github.com/Cass-ette/blog.github.io-">
-    <img src="https://img.shields.io/badge/✍️_blog.github.io---181717?style=for-the-badge&logo=github&logoColor=white" alt="blog.github.io-" />
-  </a>
-  <a href="https://github.com/Cass-ette/flask-api-review">
-    <img src="https://img.shields.io/badge/📝_flask--api--review-181717?style=for-the-badge&logo=github&logoColor=white" alt="flask-api-review" />
-  </a>
-  <a href="https://github.com/Cass-ette/flask_device_api">
-    <img src="https://img.shields.io/badge/⚡_flask__device__api-181717?style=for-the-badge&logo=github&logoColor=white" alt="flask_device_api" />
-  </a>
-  <a href="https://github.com/Cass-ette/abdoj">
-    <img src="https://img.shields.io/badge/🌍_abdoj-181717?style=for-the-badge&logo=github&logoColor=white" alt="abdoj" />
-  </a>
-  <a href="https://github.com/Cass-ette/live-dashboard">
-    <img src="https://img.shields.io/badge/📺_live--dashboard-181717?style=for-the-badge&logo=github&logoColor=white" alt="live-dashboard" />
-  </a> <sup>fork</sup>
-</p>
-
-<p align="center"><sub>· · ·</sub></p>
-
-<p align="center"><b>🎮 游戏</b></p>
-
-<p align="center">
-  <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">
-    <img src="https://img.shields.io/badge/🎮_ArknightsMaaRemoter---181717?style=for-the-badge&logo=github&logoColor=white" alt="ArknightsMaaRemoter-" />
-  </a>
-  <a href="https://github.com/Cass-ette/MaaAssistantArknights">
-    <img src="https://img.shields.io/badge/🤖_MaaAssistantArknights-181717?style=for-the-badge&logo=github&logoColor=white" alt="MaaAssistantArknights" />
-  </a> <sup>fork</sup>
-</p>
+<details>
+  <summary><b>查看更多仓库</b></summary>
+  <br />
+  <p>
+    <b>安全:</b>
+    <a href="https://github.com/Cass-ette/NetKitX-Plugins">NetKitX Plugins</a> ·
+    <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">BlueLotus XSS Receiver</a> <sup>fork</sup>
+  </p>
+  <p>
+    <b>金融:</b>
+    <a href="https://github.com/Cass-ette/FortuneTale-">FortuneTale</a>
+  </p>
+  <p>
+    <b>工具:</b>
+    <a href="https://github.com/Cass-ette/Tried-Solutions">Tried Solutions</a>
+  </p>
+  <p>
+    <b>Web:</b>
+    <a href="https://github.com/Cass-ette/blog.github.io-">Blog</a> ·
+    <a href="https://github.com/Cass-ette/flask-api-review">Flask API Review</a> ·
+    <a href="https://github.com/Cass-ette/flask_device_api">Flask Device API</a> ·
+    <a href="https://github.com/Cass-ette/abdoj">ABDOJ</a> ·
+    <a href="https://github.com/Cass-ette/live-dashboard">Live Dashboard</a> <sup>fork</sup>
+  </p>
+  <p>
+    <b>游戏:</b>
+    <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">Arknights Maa Remoter</a> ·
+    <a href="https://github.com/Cass-ette/MaaAssistantArknights">MaaAssistantArknights</a> <sup>fork</sup>
+  </p>
+</details>
 
 ---
 
