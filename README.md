@@ -156,7 +156,7 @@ current_focus: Creating awesome projects
 </p>
 
 <p align="center">
-  <i>"GIVE ME A MAJOR!!"</i>
+  <i>"GIVE ME A S16 CHAMPION!!"</i>
 </p>
 
 <p align="center">
