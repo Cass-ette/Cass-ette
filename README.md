@@ -41,37 +41,63 @@ current_focus: Creating awesome projects
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,java,swift,kotlin,js,ts,html,css,react,vue,tailwind,npm,nodejs,flask,mysql,postgres,redis,ai,ps,blender,unreal,docker,linux,windows,apple,git,github,postman,pycharm,idea,vscode&perline=11&theme=dark" />
-</p>
+| Direction | Main stack | Also used |
+| :--- | :--- | :--- |
+| **Backend & scripting** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=go%2Cpython&theme=light" alt="Go · Python" /></picture><br />Go · Python | Java · Node.js · Flask |
+| **Frontend & Web** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=ts%2Creact&theme=light" alt="TypeScript · React" /></picture><br />TypeScript · React | Vue · Tailwind CSS · JavaScript · HTML / CSS |
+| **Apple & native apps** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" alt="Swift · C++" /></picture><br />Swift · C++ | Kotlin |
+| **Data & deployment** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" alt="PostgreSQL · Docker" /></picture><br />PostgreSQL · Docker | MySQL · Redis · Linux |
+
+<details>
+  <summary>Development tools & creative software</summary>
+
+**Development tools**
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cnpm%2Cpostman%2Cpycharm%2Cidea%2Cvscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cnpm%2Cpostman%2Cpycharm%2Cidea%2Cvscode&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cnpm%2Cpostman%2Cpycharm%2Cidea%2Cvscode&theme=light" alt="Git, GitHub, npm, Postman, PyCharm, IntelliJ IDEA, VS Code" /></picture>
+
+**Design & 3D**
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ai%2Cps%2Cblender%2Cunreal&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ai%2Cps%2Cblender%2Cunreal&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=ai%2Cps%2Cblender%2Cunreal&theme=light" alt="Illustrator, Photoshop, Blender, Unreal Engine" /></picture>
+
+**Platforms**
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=apple%2Cwindows&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=apple%2Cwindows&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=apple%2Cwindows&theme=light" alt="macOS, Windows" /></picture>
+
+</details>
 
 ---
 
-### Contribution Snake
+### Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### GitHub Stats
+<p align="center"><b>Contribution streak</b></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cass-ette&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Cass-ette&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Cass-ette&hide_border=true&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" />
+    <img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=Cass-ette&hide_border=true&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" alt="Contribution streak" />
+  </picture>
 </p>
 
----
+<p align="center"><b>Contribution snake</b></p>
 
-### 3D Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette@main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette@main/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette@main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</picture>
+<p align="center"><b>3D contribution calendar</b></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/main/profile-3d-contrib/profile-blue-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/main/profile-3d-contrib/profile-blue-light.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/Cass-ette/Cass-ette/main/profile-3d-contrib/profile-blue-light.svg" alt="3D contribution calendar" />
+  </picture>
+</p>
 
 ---
 

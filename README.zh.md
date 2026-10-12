@@ -41,37 +41,63 @@ current_focus: 创造更多有趣的项目
 
 ### 技术栈
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,java,swift,kotlin,js,ts,html,css,react,vue,tailwind,npm,nodejs,flask,mysql,postgres,redis,ai,ps,blender,unreal,docker,linux,windows,apple,git,github,postman,pycharm,idea,vscode&perline=11&theme=dark" />
-</p>
+| 方向 | 主要使用 | 相关技术 |
+| :--- | :--- | :--- |
+| **后端与脚本** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=go%2Cpython&theme=light" alt="Go · Python" /></picture><br />Go · Python | Java · Node.js · Flask |
+| **前端与 Web** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=ts%2Creact&theme=light" alt="TypeScript · React" /></picture><br />TypeScript · React | Vue · Tailwind CSS · JavaScript · HTML / CSS |
+| **Apple 与原生客户端** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" alt="Swift · C++" /></picture><br />Swift · C++ | Kotlin |
+| **数据与部署** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" alt="PostgreSQL · Docker" /></picture><br />PostgreSQL · Docker | MySQL · Redis · Linux |
+
+<details>
+  <summary>开发工具与创作软件</summary>
+
+**开发工具**
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cnpm%2Cpostman%2Cpycharm%2Cidea%2Cvscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cnpm%2Cpostman%2Cpycharm%2Cidea%2Cvscode&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cnpm%2Cpostman%2Cpycharm%2Cidea%2Cvscode&theme=light" alt="Git, GitHub, npm, Postman, PyCharm, IntelliJ IDEA, VS Code" /></picture>
+
+**设计与 3D**
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ai%2Cps%2Cblender%2Cunreal&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ai%2Cps%2Cblender%2Cunreal&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=ai%2Cps%2Cblender%2Cunreal&theme=light" alt="Illustrator, Photoshop, Blender, Unreal Engine" /></picture>
+
+**使用平台**
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=apple%2Cwindows&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=apple%2Cwindows&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=apple%2Cwindows&theme=light" alt="macOS, Windows" /></picture>
+
+</details>
 
 ---
 
-### 贡献蛇
+### 贡献
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### GitHub 统计
+<p align="center"><b>连续贡献统计</b></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cass-ette&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Cass-ette&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Cass-ette&hide_border=true&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" />
+    <img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=Cass-ette&hide_border=true&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" alt="连续贡献统计" />
+  </picture>
 </p>
 
----
+<p align="center"><b>贡献蛇</b></p>
 
-### 3D 贡献图
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/Cass-ette/Cass-ette/output/github-contribution-grid-snake.svg" alt="贡献蛇" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette@main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette@main/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/Cass-ette/Cass-ette@main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D 贡献图" />
-</picture>
+<p align="center"><b>3D 贡献日历</b></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/main/profile-3d-contrib/profile-blue-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cass-ette/Cass-ette/main/profile-3d-contrib/profile-blue-light.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/Cass-ette/Cass-ette/main/profile-3d-contrib/profile-blue-light.svg" alt="3D 贡献日历" />
+  </picture>
+</p>
 
 ---
 
@@ -156,7 +182,7 @@ current_focus: 创造更多有趣的项目
 </p>
 
 <p align="center">
-  <i>"给我一个MAJOR冠军！！"</i>
+  <i>"给我一个S冠！！"</i>
 </p>
 
 <p align="center">
