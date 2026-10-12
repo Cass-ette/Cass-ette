@@ -33,7 +33,7 @@ hobbies:
   - Turning coffee into code
   - Debugging at 3 AM
   - Making things work
-  - Playing Counter-Strike
+  - Playing League of Legends
 current_focus: Creating awesome projects
 ```
 
@@ -103,48 +103,62 @@ current_focus: Creating awesome projects
 
 ### <img src="assets/profile-icons/projects.svg" width="24" height="24" alt="" /> Featured Projects
 
-Projects grouped by focus, with their platforms and purpose.
+#### <img src="assets/profile-icons/media.svg" width="20" height="20" alt="" /> Esports & media
+
+**[Matchcut](https://github.com/Cass-ette/matchcut)** · `Local Web app`<br />
+Turn match data into a post-match film: player comparisons, animated radar charts, and video export for Dota 2, LoL, and CS.
+
+<p align="center">
+  <a href="https://github.com/Cass-ette/matchcut"><img src="assets/projects/matchcut.jpg" width="680" alt="Matchcut video output: Dota 2 player radar and match statistics" /></a>
+</p>
+
+- [fastlol](https://github.com/Cass-ette/fastlol) · `CLI` — League of Legends data, with U.GG scraping.
+- [FFmpeg GUI Converter](https://github.com/Cass-ette/ffmpeg-gui-converter) · `Desktop` — Video, audio, and container conversion with Go / Fyne.
 
 #### <img src="assets/profile-icons/apps.svg" width="20" height="20" alt="" /> Everyday apps
 
-| Platform / format | Project | Purpose |
-| :--- | :--- | :--- |
-| iOS | **[Nearby / 附近](https://github.com/Cass-ette/nearby)** | Record everyday moments with photos, moods, and a personal memory map. |
-| iOS / iPadOS | **[Possible Forest / 可能森林](https://github.com/Cass-ette/possible-forest)** | Flexible task planning with branching outcomes and a companion pet. |
-| macOS | **[Coffer](https://github.com/Cass-ette/coffer)** | A local encrypted vault for passwords, keys, and TOTP, with Touch ID unlock. |
-| macOS | **[GoatMarkdown](https://github.com/Cass-ette/GoatMarkdown)** | A Markdown reader with multiple windows, search, bookmarks, and highlights. |
+<a href="https://github.com/Cass-ette/nearby"><img align="right" src="assets/projects/nearby.png" width="64" height="64" alt="Nearby app icon" /></a>
+
+**[Nearby / 附近](https://github.com/Cass-ette/nearby)** · `iOS`<br />
+Keep the moments you usually walk past. Photos, moods, and places become a personal memory map.<br />
+<sub>SwiftUI · SwiftData · MapKit</sub>
+
+<br clear="both" />
+
+<a href="https://github.com/Cass-ette/coffer"><img align="right" src="assets/projects/coffer.png" width="64" height="64" alt="Coffer app icon" /></a>
+
+**[Coffer](https://github.com/Cass-ette/coffer)** · `macOS`<br />
+Passwords, keys, TOTP codes, and sensitive notes in a local encrypted vault, unlocked with Touch ID.<br />
+<sub>Swift · Local storage · Biometric unlock</sub>
+
+<br clear="both" />
+
+- [Possible Forest / 可能森林](https://github.com/Cass-ette/possible-forest) · `iOS / iPadOS` — Flexible task planning with branching outcomes and a companion pet.
+- [GoatMarkdown](https://github.com/Cass-ette/GoatMarkdown) · `macOS` — A Markdown reader with multiple windows, search, bookmarks, and highlights.
 
 #### <img src="assets/profile-icons/tools.svg" width="20" height="20" alt="" /> Developer tools & languages
 
-| Platform / format | Project | Purpose |
-| :--- | :--- | :--- |
-| CLI | **[Gwen](https://github.com/Cass-ette/gwen-lang)** | A language for backend and automation work, with an interpreter, type checker, and C backend. |
-| CLI | **[algosketch](https://github.com/Cass-ette/algosketch)** | Turn algorithm-style Python, Java, C++, and Go code into pseudocode and explanations. |
-| macOS | **[DevMacpp](https://github.com/Cass-ette/DevMacpp)** | A C++ editor for algorithm practice and competitive programming. |
+**[Gwen](https://github.com/Cass-ette/gwen-lang)** · `CLI`<br />
+A language for backend and automation work, from an interpreter and type checker to a C compilation backend.
+
+- [algosketch](https://github.com/Cass-ette/algosketch) · `CLI` — Turn Python, Java, C++, and Go algorithms into pseudocode and explanations.
+- [DevMacpp](https://github.com/Cass-ette/DevMacpp) · `macOS` — A C++ editor for algorithm practice and competitive programming.
 
 #### <img src="assets/profile-icons/network.svg" width="20" height="20" alt="" /> Networking & self-hosting
 
-| Platform / format | Project | Purpose |
-| :--- | :--- | :--- |
-| Web / server | **[NetKitX](https://github.com/Cass-ette/NetKitX)** | A network security platform with plugin management, live tasks, and topology views. |
-| macOS | **[ProxyCat](https://github.com/Cass-ette/ProxyCat)** | A menu bar proxy manager with subscriptions, system proxy status, and connectivity diagnostics. |
-| Web / server | **[MAA Remoter](https://github.com/Cass-ette/ArknightsMaaRemoter-)** | A self-hosted MAA backend and dashboard for remote tasks, status, and screenshots. |
+**[NetKitX](https://github.com/Cass-ette/NetKitX)** · `Web / server`<br />
+A network security workspace with plugin management, live tasks, and topology views.
 
-#### <img src="assets/profile-icons/media.svg" width="20" height="20" alt="" /> Esports & media
-
-| Platform / format | Project | Purpose |
-| :--- | :--- | :--- |
-| Local Web app | **[Matchcut](https://github.com/Cass-ette/matchcut)** | Turn Dota 2, LoL, and CS match data into post-match videos. |
-| CLI | **[fastlol](https://github.com/Cass-ette/fastlol)** | A League of Legends CLI with U.GG data scraping. |
-| Desktop | **[FFmpeg GUI Converter](https://github.com/Cass-ette/ffmpeg-gui-converter)** | A Go / Fyne media converter for video, audio, and container conversion. |
+- [ProxyCat](https://github.com/Cass-ette/ProxyCat) · `macOS` — Menu bar proxy management, subscriptions, and connectivity diagnostics.
+- [MAA Remoter](https://github.com/Cass-ette/ArknightsMaaRemoter-) · `Web / server` — A self-hosted MAA backend and dashboard for remote tasks, status, and screenshots.
 
 #### <img src="assets/profile-icons/finance.svg" width="20" height="20" alt="" /> Finance & data analysis
 
-| Platform / format | Project | Purpose |
-| :--- | :--- | :--- |
-| Web | **[Treasure](https://github.com/Cass-ette/treasure)** | Manage fund holdings across accounts, track NAV, and analyze returns. |
-| CLI | **[ETF CLI](https://github.com/Cass-ette/etf-cli)** | Query A-share ETFs and OTC funds, with pair management and watchlists. |
-| Python scripts | **[QuanTrader](https://github.com/Cass-ette/QuanTrader)** | An ETH/USDT strategy experiment using trend following and volatility filters. |
+**[Treasure](https://github.com/Cass-ette/treasure)** · `Web`<br />
+Manage fund holdings across accounts, track NAV, and see where returns come from.
+
+- [ETF CLI](https://github.com/Cass-ette/etf-cli) · `CLI` — A-share ETF and OTC fund quotes, pair management, and watchlists.
+- [QuanTrader](https://github.com/Cass-ette/QuanTrader) · `Python` — An ETH/USDT strategy experiment with trend following and volatility filters.
 
 <details>
   <summary>More projects</summary>

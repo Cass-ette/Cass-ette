@@ -33,7 +33,7 @@ hobbies:
   - 把咖啡变成代码
   - 凌晨三点调 bug
   - 让一切跑起来
-  - 打反恐精英
+  - 打英雄联盟
 current_focus: 创造更多有趣的项目
 ```
 
@@ -103,48 +103,62 @@ current_focus: 创造更多有趣的项目
 
 ### <img src="assets/profile-icons/projects.svg" width="24" height="24" alt="" /> 精选项目
 
-按方向整理，标注平台与用途。
+#### <img src="assets/profile-icons/media.svg" width="20" height="20" alt="" /> 电竞与媒体创作
+
+**[Matchcut](https://github.com/Cass-ette/matchcut)** · `本地 Web`<br />
+从比赛数据到赛后视频：选手对位、动态雷达图与视频导出，支持 Dota 2、英雄联盟和 CS。
+
+<p align="center">
+  <a href="https://github.com/Cass-ette/matchcut"><img src="assets/projects/matchcut.jpg" width="680" alt="Matchcut 实际导出画面：Dota 2 选手雷达图与比赛数据" /></a>
+</p>
+
+- [fastlol](https://github.com/Cass-ette/fastlol) · `命令行` — 英雄联盟数据工具，支持 U.GG 数据抓取。
+- [FFmpeg GUI Converter](https://github.com/Cass-ette/ffmpeg-gui-converter) · `桌面` — 基于 Go / Fyne 的视频、音频转码与封装工具。
 
 #### <img src="assets/profile-icons/apps.svg" width="20" height="20" alt="" /> 生活与效率
 
-| 平台 / 形态 | 项目 | 用途 |
-| :--- | :--- | :--- |
-| iOS | **[Nearby / 附近](https://github.com/Cass-ette/nearby)** | 照片、心情与个人记忆地图，记录日常生活。 |
-| iOS / iPadOS | **[Possible Forest / 可能森林](https://github.com/Cass-ette/possible-forest)** | 以任务分支和宠物陪伴设计弹性任务规划。 |
-| macOS | **[Coffer](https://github.com/Cass-ette/coffer)** | 本地加密管理密码、密钥与 TOTP，支持 Touch ID 解锁。 |
-| macOS | **[GoatMarkdown](https://github.com/Cass-ette/GoatMarkdown)** | 支持多窗口、目录、搜索、书签与高亮的 Markdown 阅读器。 |
+<a href="https://github.com/Cass-ette/nearby"><img align="right" src="assets/projects/nearby.png" width="64" height="64" alt="附近 App 图标" /></a>
+
+**[Nearby / 附近](https://github.com/Cass-ette/nearby)** · `iOS`<br />
+别只路过，把今天留下来。用照片、心情和地点，慢慢拼出属于自己的记忆地图。<br />
+<sub>SwiftUI · SwiftData · MapKit</sub>
+
+<br clear="both" />
+
+<a href="https://github.com/Cass-ette/coffer"><img align="right" src="assets/projects/coffer.png" width="64" height="64" alt="Coffer App 图标" /></a>
+
+**[Coffer](https://github.com/Cass-ette/coffer)** · `macOS`<br />
+把密码、密钥、TOTP 验证码和敏感笔记，收进一个 Touch ID 一按即开的本地加密库。<br />
+<sub>Swift · 本地存储 · 生物识别解锁</sub>
+
+<br clear="both" />
+
+- [Possible Forest / 可能森林](https://github.com/Cass-ette/possible-forest) · `iOS / iPadOS` — 用任务分支和宠物陪伴，设计弹性任务规划。
+- [GoatMarkdown](https://github.com/Cass-ette/GoatMarkdown) · `macOS` — 支持多窗口、目录、搜索、书签与高亮的 Markdown 阅读器。
 
 #### <img src="assets/profile-icons/tools.svg" width="20" height="20" alt="" /> 开发工具与语言
 
-| 平台 / 形态 | 项目 | 用途 |
-| :--- | :--- | :--- |
-| 命令行 | **[Gwen](https://github.com/Cass-ette/gwen-lang)** | 面向后端与自动化的语言，包含解释器、类型检查器和 C 编译后端。 |
-| 命令行 | **[algosketch](https://github.com/Cass-ette/algosketch)** | 把 Python、Java、C++、Go 的算法代码转为伪代码与中英文解释。 |
-| macOS | **[DevMacpp](https://github.com/Cass-ette/DevMacpp)** | 面向算法练习与竞赛编程的 C++ 编辑器。 |
+**[Gwen](https://github.com/Cass-ette/gwen-lang)** · `命令行`<br />
+面向后端与自动化的语言，从解释器、类型检查器，一直做到 C 编译后端。
+
+- [algosketch](https://github.com/Cass-ette/algosketch) · `命令行` — 把 Python、Java、C++、Go 的算法代码转为伪代码与中英文解释。
+- [DevMacpp](https://github.com/Cass-ette/DevMacpp) · `macOS` — 面向算法练习与竞赛编程的 C++ 编辑器。
 
 #### <img src="assets/profile-icons/network.svg" width="20" height="20" alt="" /> 网络与自托管
 
-| 平台 / 形态 | 项目 | 用途 |
-| :--- | :--- | :--- |
-| Web / 服务端 | **[NetKitX](https://github.com/Cass-ette/NetKitX)** | 集成插件管理、实时任务与网络拓扑的安全工具平台。 |
-| macOS | **[ProxyCat](https://github.com/Cass-ette/ProxyCat)** | 菜单栏代理管理工具，支持订阅、系统代理状态与连通性诊断。 |
-| Web / 服务端 | **[MAA Remoter](https://github.com/Cass-ette/ArknightsMaaRemoter-)** | MAA 远程控制后端与 Web 面板，支持任务下发、状态与截图。 |
+**[NetKitX](https://github.com/Cass-ette/NetKitX)** · `Web / 服务端`<br />
+把插件管理、实时任务与网络拓扑整合到一起的网络安全工具平台。
 
-#### <img src="assets/profile-icons/media.svg" width="20" height="20" alt="" /> 电竞与媒体创作
-
-| 平台 / 形态 | 项目 | 用途 |
-| :--- | :--- | :--- |
-| 本地 Web | **[Matchcut](https://github.com/Cass-ette/matchcut)** | 把 Dota 2、LoL 和 CS 比赛数据生成赛后视频。 |
-| 命令行 | **[fastlol](https://github.com/Cass-ette/fastlol)** | 英雄联盟数据命令行工具，支持 U.GG 数据抓取。 |
-| 桌面 | **[FFmpeg GUI Converter](https://github.com/Cass-ette/ffmpeg-gui-converter)** | 基于 Go / Fyne 的媒体转换器，支持视频、音频转码与封装。 |
+- [ProxyCat](https://github.com/Cass-ette/ProxyCat) · `macOS` — 菜单栏代理管理，支持订阅、系统代理状态与连通性诊断。
+- [MAA Remoter](https://github.com/Cass-ette/ArknightsMaaRemoter-) · `Web / 服务端` — 自托管的 MAA 远程控制后端与面板，支持任务下发、状态与截图。
 
 #### <img src="assets/profile-icons/finance.svg" width="20" height="20" alt="" /> 金融与数据分析
 
-| 平台 / 形态 | 项目 | 用途 |
-| :--- | :--- | :--- |
-| Web | **[Treasure](https://github.com/Cass-ette/treasure)** | 多账户基金持仓管理、净值追踪与收益分析。 |
-| 命令行 | **[ETF CLI](https://github.com/Cass-ette/etf-cli)** | 查询 A 股 ETF 与场外基金行情，管理配对与关注列表。 |
-| Python 脚本 | **[QuanTrader](https://github.com/Cass-ette/QuanTrader)** | ETH/USDT 趋势跟踪与波动率过滤策略实验。 |
+**[Treasure](https://github.com/Cass-ette/treasure)** · `Web`<br />
+多账户基金持仓管理、净值追踪与收益分析，看清资金分布和收益来源。
+
+- [ETF CLI](https://github.com/Cass-ette/etf-cli) · `命令行` — 查询 A 股 ETF 与场外基金行情，管理配对与关注列表。
+- [QuanTrader](https://github.com/Cass-ette/QuanTrader) · `Python` — ETH/USDT 趋势跟踪与波动率过滤策略实验。
 
 <details>
   <summary>更多项目</summary>
