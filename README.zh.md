@@ -103,68 +103,62 @@ current_focus: 创造更多有趣的项目
 
 ### 精选项目
 
-<p align="center">
-  <a href="https://github.com/Cass-ette/github-real-stars">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=github-real-stars&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=github-real-stars&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=github-real-stars&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="github-real-stars" />
-    </picture>
-  </a>
-  <a href="https://github.com/Cass-ette/fastlol">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=fastlol&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=fastlol&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=fastlol&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="fastlol" />
-    </picture>
-  </a>
-</p>
+按方向整理，标注平台与用途。
 
-<p align="center">
-  <a href="https://github.com/Cass-ette/NetKitX">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="NetKitX" />
-    </picture>
-  </a>
-  <a href="https://github.com/Cass-ette/DevMacpp">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=DevMacpp&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=DevMacpp&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=DevMacpp&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="DevMacpp" />
-    </picture>
-  </a>
-</p>
+#### 生活与效率
+
+| 平台 / 形态 | 项目 | 用途 |
+| :--- | :--- | :--- |
+| iOS | **[Nearby / 附近](https://github.com/Cass-ette/nearby)** | 照片、心情与个人记忆地图，记录日常生活。 |
+| iOS / iPadOS | **[Possible Forest / 可能森林](https://github.com/Cass-ette/possible-forest)** | 以任务分支和宠物陪伴设计弹性任务规划。 |
+| macOS | **[Coffer](https://github.com/Cass-ette/coffer)** | 本地加密管理密码、密钥与 TOTP，支持 Touch ID 解锁。 |
+| macOS | **[GoatMarkdown](https://github.com/Cass-ette/GoatMarkdown)** | 支持多窗口、目录、搜索、书签与高亮的 Markdown 阅读器。 |
+
+#### 开发工具与语言
+
+| 平台 / 形态 | 项目 | 用途 |
+| :--- | :--- | :--- |
+| 命令行 | **[Gwen](https://github.com/Cass-ette/gwen-lang)** | 面向后端与自动化的语言，包含解释器、类型检查器和 C 编译后端。 |
+| 命令行 | **[algosketch](https://github.com/Cass-ette/algosketch)** | 把 Python、Java、C++、Go 的算法代码转为伪代码与中英文解释。 |
+| macOS | **[DevMacpp](https://github.com/Cass-ette/DevMacpp)** | 面向算法练习与竞赛编程的 C++ 编辑器。 |
+
+#### 网络与自托管
+
+| 平台 / 形态 | 项目 | 用途 |
+| :--- | :--- | :--- |
+| Web / 服务端 | **[NetKitX](https://github.com/Cass-ette/NetKitX)** | 集成插件管理、实时任务与网络拓扑的安全工具平台。 |
+| macOS | **[ProxyCat](https://github.com/Cass-ette/ProxyCat)** | 菜单栏代理管理工具，支持订阅、系统代理状态与连通性诊断。 |
+| Web / 服务端 | **[MAA Remoter](https://github.com/Cass-ette/ArknightsMaaRemoter-)** | MAA 远程控制后端与 Web 面板，支持任务下发、状态与截图。 |
+
+#### 电竞与媒体创作
+
+| 平台 / 形态 | 项目 | 用途 |
+| :--- | :--- | :--- |
+| 本地 Web | **[Matchcut](https://github.com/Cass-ette/matchcut)** | 把 Dota 2、LoL 和 CS 比赛数据生成赛后视频。 |
+| 命令行 | **[fastlol](https://github.com/Cass-ette/fastlol)** | 英雄联盟数据命令行工具，支持 U.GG 数据抓取。 |
+| 桌面 | **[FFmpeg GUI Converter](https://github.com/Cass-ette/ffmpeg-gui-converter)** | 基于 Go / Fyne 的媒体转换器，支持视频、音频转码与封装。 |
+
+#### 金融与数据分析
+
+| 平台 / 形态 | 项目 | 用途 |
+| :--- | :--- | :--- |
+| Web | **[Treasure](https://github.com/Cass-ette/treasure)** | 多账户基金持仓管理、净值追踪与收益分析。 |
+| 命令行 | **[ETF CLI](https://github.com/Cass-ette/etf-cli)** | 查询 A 股 ETF 与场外基金行情，管理配对与关注列表。 |
+| Python 脚本 | **[QuanTrader](https://github.com/Cass-ette/QuanTrader)** | ETH/USDT 趋势跟踪与波动率过滤策略实验。 |
 
 <details>
-  <summary><b>查看更多仓库</b></summary>
-  <br />
-  <p align="center">
-    <code>最新</code>
-    <a href="https://github.com/Cass-ette/mobile-vscode">mobile-vscode</a> ·
-    <a href="https://github.com/Cass-ette/DualPaper">DualPaper</a> ·
-    <a href="https://github.com/Cass-ette/NetKitX-Plugins">NetKitX Plugins</a><br />
-    <code>安全</code>
-    <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">BlueLotus XSS Receiver</a> <sup>fork</sup><br />
-    <code>金融</code>
-    <a href="https://github.com/Cass-ette/treasure">Treasure</a> ·
-    <a href="https://github.com/Cass-ette/QuanTrader">QuanTrader</a> ·
-    <a href="https://github.com/Cass-ette/FortuneTale-">FortuneTale</a><br />
-    <code>工具</code>
-    <a href="https://github.com/Cass-ette/schedule-to-calendar">Schedule to Calendar</a> ·
-    <a href="https://github.com/Cass-ette/campus-printer-system">Campus Printer System</a> ·
-    <a href="https://github.com/Cass-ette/Tried-Solutions">Tried Solutions</a><br />
-    <code>Web</code>
-    <a href="https://github.com/Cass-ette/blog.github.io-">Blog</a> ·
-    <a href="https://github.com/Cass-ette/flask-api-review">Flask API Review</a> ·
-    <a href="https://github.com/Cass-ette/flask_device_api">Flask Device API</a> ·
-    <a href="https://github.com/Cass-ette/abdoj">ABDOJ</a> ·
-    <a href="https://github.com/Cass-ette/live-dashboard">Live Dashboard</a> <sup>fork</sup><br />
-    <code>游戏</code>
-    <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">Arknights Maa Remoter</a> ·
-    <a href="https://github.com/Cass-ette/MaaAssistantArknights">MaaAssistantArknights</a> <sup>fork</sup>
-  </p>
+  <summary>更多项目</summary>
+
+**工具与实验**：[github-real-stars](https://github.com/Cass-ette/github-real-stars) · [mobile-vscode](https://github.com/Cass-ette/mobile-vscode) · [DualPaper](https://github.com/Cass-ette/DualPaper) · [NetKitX Plugins](https://github.com/Cass-ette/NetKitX-Plugins) · [Homelab Monitor](https://github.com/Cass-ette/homelab-monitor) · [Schedule to Calendar](https://github.com/Cass-ette/schedule-to-calendar) · [Tried Solutions](https://github.com/Cass-ette/Tried-Solutions)
+
+**金融**：[FortuneTale](https://github.com/Cass-ette/FortuneTale-)
+
+**Web**：[Blog](https://github.com/Cass-ette/blog.github.io-) · [Flask API Review](https://github.com/Cass-ette/flask-api-review) · [Flask Device API](https://github.com/Cass-ette/flask_device_api) · [ABDOJ](https://github.com/Cass-ette/abdoj)
+
+**游戏**：[BetterGI Remoter](https://github.com/Cass-ette/BetterGIRemoter) · [League of Tops](https://github.com/Cass-ette/league-of-tops)
+
+[浏览全部仓库](https://github.com/Cass-ette?tab=repositories)
+
 </details>
 
 ---

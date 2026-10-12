@@ -103,68 +103,62 @@ current_focus: Creating awesome projects
 
 ### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Cass-ette/github-real-stars">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=github-real-stars&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=github-real-stars&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=github-real-stars&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="github-real-stars" />
-    </picture>
-  </a>
-  <a href="https://github.com/Cass-ette/fastlol">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=fastlol&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=fastlol&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=fastlol&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="fastlol" />
-    </picture>
-  </a>
-</p>
+Projects grouped by focus, with their platforms and purpose.
 
-<p align="center">
-  <a href="https://github.com/Cass-ette/NetKitX">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=NetKitX&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="NetKitX" />
-    </picture>
-  </a>
-  <a href="https://github.com/Cass-ette/DevMacpp">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=DevMacpp&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=DevMacpp&show_owner=false&theme=default&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=FFFFFF" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cass-ette&repo=DevMacpp&show_owner=false&theme=github_dark_dimmed&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="DevMacpp" />
-    </picture>
-  </a>
-</p>
+#### Everyday apps
+
+| Platform / format | Project | Purpose |
+| :--- | :--- | :--- |
+| iOS | **[Nearby / 附近](https://github.com/Cass-ette/nearby)** | Record everyday moments with photos, moods, and a personal memory map. |
+| iOS / iPadOS | **[Possible Forest / 可能森林](https://github.com/Cass-ette/possible-forest)** | Flexible task planning with branching outcomes and a companion pet. |
+| macOS | **[Coffer](https://github.com/Cass-ette/coffer)** | A local encrypted vault for passwords, keys, and TOTP, with Touch ID unlock. |
+| macOS | **[GoatMarkdown](https://github.com/Cass-ette/GoatMarkdown)** | A Markdown reader with multiple windows, search, bookmarks, and highlights. |
+
+#### Developer tools & languages
+
+| Platform / format | Project | Purpose |
+| :--- | :--- | :--- |
+| CLI | **[Gwen](https://github.com/Cass-ette/gwen-lang)** | A language for backend and automation work, with an interpreter, type checker, and C backend. |
+| CLI | **[algosketch](https://github.com/Cass-ette/algosketch)** | Turn algorithm-style Python, Java, C++, and Go code into pseudocode and explanations. |
+| macOS | **[DevMacpp](https://github.com/Cass-ette/DevMacpp)** | A C++ editor for algorithm practice and competitive programming. |
+
+#### Networking & self-hosting
+
+| Platform / format | Project | Purpose |
+| :--- | :--- | :--- |
+| Web / server | **[NetKitX](https://github.com/Cass-ette/NetKitX)** | A network security platform with plugin management, live tasks, and topology views. |
+| macOS | **[ProxyCat](https://github.com/Cass-ette/ProxyCat)** | A menu bar proxy manager with subscriptions, system proxy status, and connectivity diagnostics. |
+| Web / server | **[MAA Remoter](https://github.com/Cass-ette/ArknightsMaaRemoter-)** | A self-hosted MAA backend and dashboard for remote tasks, status, and screenshots. |
+
+#### Esports & media
+
+| Platform / format | Project | Purpose |
+| :--- | :--- | :--- |
+| Local Web app | **[Matchcut](https://github.com/Cass-ette/matchcut)** | Turn Dota 2, LoL, and CS match data into post-match videos. |
+| CLI | **[fastlol](https://github.com/Cass-ette/fastlol)** | A League of Legends CLI with U.GG data scraping. |
+| Desktop | **[FFmpeg GUI Converter](https://github.com/Cass-ette/ffmpeg-gui-converter)** | A Go / Fyne media converter for video, audio, and container conversion. |
+
+#### Finance & data analysis
+
+| Platform / format | Project | Purpose |
+| :--- | :--- | :--- |
+| Web | **[Treasure](https://github.com/Cass-ette/treasure)** | Manage fund holdings across accounts, track NAV, and analyze returns. |
+| CLI | **[ETF CLI](https://github.com/Cass-ette/etf-cli)** | Query A-share ETFs and OTC funds, with pair management and watchlists. |
+| Python scripts | **[QuanTrader](https://github.com/Cass-ette/QuanTrader)** | An ETH/USDT strategy experiment using trend following and volatility filters. |
 
 <details>
-  <summary><b>Browse More Repositories</b></summary>
-  <br />
-  <p align="center">
-    <code>Latest</code>
-    <a href="https://github.com/Cass-ette/mobile-vscode">mobile-vscode</a> ·
-    <a href="https://github.com/Cass-ette/DualPaper">DualPaper</a> ·
-    <a href="https://github.com/Cass-ette/NetKitX-Plugins">NetKitX Plugins</a><br />
-    <code>Security</code>
-    <a href="https://github.com/Cass-ette/BlueLotus_XSSReceiver">BlueLotus XSS Receiver</a> <sup>fork</sup><br />
-    <code>Finance</code>
-    <a href="https://github.com/Cass-ette/treasure">Treasure</a> ·
-    <a href="https://github.com/Cass-ette/QuanTrader">QuanTrader</a> ·
-    <a href="https://github.com/Cass-ette/FortuneTale-">FortuneTale</a><br />
-    <code>Tools</code>
-    <a href="https://github.com/Cass-ette/schedule-to-calendar">Schedule to Calendar</a> ·
-    <a href="https://github.com/Cass-ette/campus-printer-system">Campus Printer System</a> ·
-    <a href="https://github.com/Cass-ette/Tried-Solutions">Tried Solutions</a><br />
-    <code>Web</code>
-    <a href="https://github.com/Cass-ette/blog.github.io-">Blog</a> ·
-    <a href="https://github.com/Cass-ette/flask-api-review">Flask API Review</a> ·
-    <a href="https://github.com/Cass-ette/flask_device_api">Flask Device API</a> ·
-    <a href="https://github.com/Cass-ette/abdoj">ABDOJ</a> ·
-    <a href="https://github.com/Cass-ette/live-dashboard">Live Dashboard</a> <sup>fork</sup><br />
-    <code>Gaming</code>
-    <a href="https://github.com/Cass-ette/ArknightsMaaRemoter-">Arknights Maa Remoter</a> ·
-    <a href="https://github.com/Cass-ette/MaaAssistantArknights">MaaAssistantArknights</a> <sup>fork</sup>
-  </p>
+  <summary>More projects</summary>
+
+**Tools & experiments**: [github-real-stars](https://github.com/Cass-ette/github-real-stars) · [mobile-vscode](https://github.com/Cass-ette/mobile-vscode) · [DualPaper](https://github.com/Cass-ette/DualPaper) · [NetKitX Plugins](https://github.com/Cass-ette/NetKitX-Plugins) · [Homelab Monitor](https://github.com/Cass-ette/homelab-monitor) · [Schedule to Calendar](https://github.com/Cass-ette/schedule-to-calendar) · [Tried Solutions](https://github.com/Cass-ette/Tried-Solutions)
+
+**Finance**: [FortuneTale](https://github.com/Cass-ette/FortuneTale-)
+
+**Web**: [Blog](https://github.com/Cass-ette/blog.github.io-) · [Flask API Review](https://github.com/Cass-ette/flask-api-review) · [Flask Device API](https://github.com/Cass-ette/flask_device_api) · [ABDOJ](https://github.com/Cass-ette/abdoj)
+
+**Gaming**: [BetterGI Remoter](https://github.com/Cass-ette/BetterGIRemoter) · [League of Tops](https://github.com/Cass-ette/league-of-tops)
+
+[Browse all repositories](https://github.com/Cass-ette?tab=repositories)
+
 </details>
 
 ---
