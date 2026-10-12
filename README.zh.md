@@ -20,7 +20,7 @@
 
 ---
 
-### 关于我
+### <img src="assets/profile-icons/profile.svg" width="24" height="24" alt="" /> 关于我
 
 ```yaml
 name: Cass-ette
@@ -39,14 +39,14 @@ current_focus: 创造更多有趣的项目
 
 <br clear="both">
 
-### 技术栈
+### <img src="assets/profile-icons/stack.svg" width="24" height="24" alt="" /> 技术栈
 
 | 方向 | 主要使用 | 相关技术 |
 | :--- | :--- | :--- |
-| **后端与脚本** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=go%2Cpython&theme=light" alt="Go · Python" /></picture><br />Go · Python | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=light" alt="Java · Node.js · Flask" /></picture><br />Java · Node.js · Flask |
-| **前端与 Web** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=ts%2Creact&theme=light" alt="TypeScript · React" /></picture><br />TypeScript · React | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=light" alt="Vue · Tailwind CSS · JavaScript · HTML / CSS" /></picture><br />Vue · Tailwind CSS · JavaScript · HTML / CSS |
-| **Apple 与原生客户端** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" alt="Swift · C++" /></picture><br />Swift · C++ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin" /></picture><br />Kotlin |
-| **数据与部署** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" alt="PostgreSQL · Docker" /></picture><br />PostgreSQL · Docker | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=light" alt="MySQL · Redis · Linux" /></picture><br />MySQL · Redis · Linux |
+| <img src="assets/profile-icons/backend.svg" width="18" height="18" alt="" /> **后端与脚本** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=go%2Cpython&theme=light" alt="Go · Python" /></picture><br />Go · Python | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=light" alt="Java · Node.js · Flask" /></picture><br />Java · Node.js · Flask |
+| <img src="assets/profile-icons/frontend.svg" width="18" height="18" alt="" /> **前端与 Web** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=ts%2Creact&theme=light" alt="TypeScript · React" /></picture><br />TypeScript · React | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=light" alt="Vue · Tailwind CSS · JavaScript · HTML / CSS" /></picture><br />Vue · Tailwind CSS · JavaScript · HTML / CSS |
+| <img src="assets/profile-icons/apps.svg" width="18" height="18" alt="" /> **Apple 与原生客户端** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" alt="Swift · C++" /></picture><br />Swift · C++ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin" /></picture><br />Kotlin |
+| <img src="assets/profile-icons/data.svg" width="18" height="18" alt="" /> **数据与部署** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" alt="PostgreSQL · Docker" /></picture><br />PostgreSQL · Docker | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=light" alt="MySQL · Redis · Linux" /></picture><br />MySQL · Redis · Linux |
 
 <details>
   <summary>开发工具与创作软件</summary>
@@ -67,7 +67,7 @@ current_focus: 创造更多有趣的项目
 
 ---
 
-### 贡献
+### <img src="assets/profile-icons/contributions.svg" width="24" height="24" alt="" /> 贡献
 
 <p align="center"><b>连续贡献统计</b></p>
 
@@ -101,11 +101,11 @@ current_focus: 创造更多有趣的项目
 
 ---
 
-### 精选项目
+### <img src="assets/profile-icons/projects.svg" width="24" height="24" alt="" /> 精选项目
 
 按方向整理，标注平台与用途。
 
-#### 生活与效率
+#### <img src="assets/profile-icons/apps.svg" width="20" height="20" alt="" /> 生活与效率
 
 | 平台 / 形态 | 项目 | 用途 |
 | :--- | :--- | :--- |
@@ -114,7 +114,7 @@ current_focus: 创造更多有趣的项目
 | macOS | **[Coffer](https://github.com/Cass-ette/coffer)** | 本地加密管理密码、密钥与 TOTP，支持 Touch ID 解锁。 |
 | macOS | **[GoatMarkdown](https://github.com/Cass-ette/GoatMarkdown)** | 支持多窗口、目录、搜索、书签与高亮的 Markdown 阅读器。 |
 
-#### 开发工具与语言
+#### <img src="assets/profile-icons/tools.svg" width="20" height="20" alt="" /> 开发工具与语言
 
 | 平台 / 形态 | 项目 | 用途 |
 | :--- | :--- | :--- |
@@ -122,7 +122,7 @@ current_focus: 创造更多有趣的项目
 | 命令行 | **[algosketch](https://github.com/Cass-ette/algosketch)** | 把 Python、Java、C++、Go 的算法代码转为伪代码与中英文解释。 |
 | macOS | **[DevMacpp](https://github.com/Cass-ette/DevMacpp)** | 面向算法练习与竞赛编程的 C++ 编辑器。 |
 
-#### 网络与自托管
+#### <img src="assets/profile-icons/network.svg" width="20" height="20" alt="" /> 网络与自托管
 
 | 平台 / 形态 | 项目 | 用途 |
 | :--- | :--- | :--- |
@@ -130,7 +130,7 @@ current_focus: 创造更多有趣的项目
 | macOS | **[ProxyCat](https://github.com/Cass-ette/ProxyCat)** | 菜单栏代理管理工具，支持订阅、系统代理状态与连通性诊断。 |
 | Web / 服务端 | **[MAA Remoter](https://github.com/Cass-ette/ArknightsMaaRemoter-)** | MAA 远程控制后端与 Web 面板，支持任务下发、状态与截图。 |
 
-#### 电竞与媒体创作
+#### <img src="assets/profile-icons/media.svg" width="20" height="20" alt="" /> 电竞与媒体创作
 
 | 平台 / 形态 | 项目 | 用途 |
 | :--- | :--- | :--- |
@@ -138,7 +138,7 @@ current_focus: 创造更多有趣的项目
 | 命令行 | **[fastlol](https://github.com/Cass-ette/fastlol)** | 英雄联盟数据命令行工具，支持 U.GG 数据抓取。 |
 | 桌面 | **[FFmpeg GUI Converter](https://github.com/Cass-ette/ffmpeg-gui-converter)** | 基于 Go / Fyne 的媒体转换器，支持视频、音频转码与封装。 |
 
-#### 金融与数据分析
+#### <img src="assets/profile-icons/finance.svg" width="20" height="20" alt="" /> 金融与数据分析
 
 | 平台 / 形态 | 项目 | 用途 |
 | :--- | :--- | :--- |
@@ -163,7 +163,7 @@ current_focus: 创造更多有趣的项目
 
 ---
 
-### 联系我
+### <img src="assets/profile-icons/contact.svg" width="24" height="24" alt="" /> 联系我
 
 <p align="center">
   <a href="mailto:1804534439@qq.com">

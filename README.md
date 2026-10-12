@@ -20,7 +20,7 @@
 
 ---
 
-### About Me
+### <img src="assets/profile-icons/profile.svg" width="24" height="24" alt="" /> About Me
 
 ```yaml
 name: Cass-ette
@@ -39,14 +39,14 @@ current_focus: Creating awesome projects
 
 <br clear="both">
 
-### Tech Stack
+### <img src="assets/profile-icons/stack.svg" width="24" height="24" alt="" /> Tech Stack
 
 | Direction | Main stack | Also used |
 | :--- | :--- | :--- |
-| **Backend & scripting** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=go%2Cpython&theme=light" alt="Go · Python" /></picture><br />Go · Python | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=light" alt="Java · Node.js · Flask" /></picture><br />Java · Node.js · Flask |
-| **Frontend & Web** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=ts%2Creact&theme=light" alt="TypeScript · React" /></picture><br />TypeScript · React | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=light" alt="Vue · Tailwind CSS · JavaScript · HTML / CSS" /></picture><br />Vue · Tailwind CSS · JavaScript · HTML / CSS |
-| **Apple & native apps** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" alt="Swift · C++" /></picture><br />Swift · C++ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin" /></picture><br />Kotlin |
-| **Data & deployment** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" alt="PostgreSQL · Docker" /></picture><br />PostgreSQL · Docker | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=light" alt="MySQL · Redis · Linux" /></picture><br />MySQL · Redis · Linux |
+| <img src="assets/profile-icons/backend.svg" width="18" height="18" alt="" /> **Backend & scripting** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cpython&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=go%2Cpython&theme=light" alt="Go · Python" /></picture><br />Go · Python | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=java%2Cnodejs%2Cflask&theme=light" alt="Java · Node.js · Flask" /></picture><br />Java · Node.js · Flask |
+| <img src="assets/profile-icons/frontend.svg" width="18" height="18" alt="" /> **Frontend & Web** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Creact&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=ts%2Creact&theme=light" alt="TypeScript · React" /></picture><br />TypeScript · React | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=vue%2Ctailwind%2Cjs%2Chtml%2Ccss&theme=light" alt="Vue · Tailwind CSS · JavaScript · HTML / CSS" /></picture><br />Vue · Tailwind CSS · JavaScript · HTML / CSS |
+| <img src="assets/profile-icons/apps.svg" width="18" height="18" alt="" /> **Apple & native apps** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=swift%2Ccpp&theme=light" alt="Swift · C++" /></picture><br />Swift · C++ | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin" /></picture><br />Kotlin |
+| <img src="assets/profile-icons/data.svg" width="18" height="18" alt="" /> **Data & deployment** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" /><img height="36" src="https://skillicons.dev/icons?i=postgres%2Cdocker&theme=light" alt="PostgreSQL · Docker" /></picture><br />PostgreSQL · Docker | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=light" /><img height="28" src="https://skillicons.dev/icons?i=mysql%2Credis%2Clinux&theme=light" alt="MySQL · Redis · Linux" /></picture><br />MySQL · Redis · Linux |
 
 <details>
   <summary>Development tools & creative software</summary>
@@ -67,7 +67,7 @@ current_focus: Creating awesome projects
 
 ---
 
-### Contributions
+### <img src="assets/profile-icons/contributions.svg" width="24" height="24" alt="" /> Contributions
 
 <p align="center"><b>Contribution streak</b></p>
 
@@ -101,11 +101,11 @@ current_focus: Creating awesome projects
 
 ---
 
-### Featured Projects
+### <img src="assets/profile-icons/projects.svg" width="24" height="24" alt="" /> Featured Projects
 
 Projects grouped by focus, with their platforms and purpose.
 
-#### Everyday apps
+#### <img src="assets/profile-icons/apps.svg" width="20" height="20" alt="" /> Everyday apps
 
 | Platform / format | Project | Purpose |
 | :--- | :--- | :--- |
@@ -114,7 +114,7 @@ Projects grouped by focus, with their platforms and purpose.
 | macOS | **[Coffer](https://github.com/Cass-ette/coffer)** | A local encrypted vault for passwords, keys, and TOTP, with Touch ID unlock. |
 | macOS | **[GoatMarkdown](https://github.com/Cass-ette/GoatMarkdown)** | A Markdown reader with multiple windows, search, bookmarks, and highlights. |
 
-#### Developer tools & languages
+#### <img src="assets/profile-icons/tools.svg" width="20" height="20" alt="" /> Developer tools & languages
 
 | Platform / format | Project | Purpose |
 | :--- | :--- | :--- |
@@ -122,7 +122,7 @@ Projects grouped by focus, with their platforms and purpose.
 | CLI | **[algosketch](https://github.com/Cass-ette/algosketch)** | Turn algorithm-style Python, Java, C++, and Go code into pseudocode and explanations. |
 | macOS | **[DevMacpp](https://github.com/Cass-ette/DevMacpp)** | A C++ editor for algorithm practice and competitive programming. |
 
-#### Networking & self-hosting
+#### <img src="assets/profile-icons/network.svg" width="20" height="20" alt="" /> Networking & self-hosting
 
 | Platform / format | Project | Purpose |
 | :--- | :--- | :--- |
@@ -130,7 +130,7 @@ Projects grouped by focus, with their platforms and purpose.
 | macOS | **[ProxyCat](https://github.com/Cass-ette/ProxyCat)** | A menu bar proxy manager with subscriptions, system proxy status, and connectivity diagnostics. |
 | Web / server | **[MAA Remoter](https://github.com/Cass-ette/ArknightsMaaRemoter-)** | A self-hosted MAA backend and dashboard for remote tasks, status, and screenshots. |
 
-#### Esports & media
+#### <img src="assets/profile-icons/media.svg" width="20" height="20" alt="" /> Esports & media
 
 | Platform / format | Project | Purpose |
 | :--- | :--- | :--- |
@@ -138,7 +138,7 @@ Projects grouped by focus, with their platforms and purpose.
 | CLI | **[fastlol](https://github.com/Cass-ette/fastlol)** | A League of Legends CLI with U.GG data scraping. |
 | Desktop | **[FFmpeg GUI Converter](https://github.com/Cass-ette/ffmpeg-gui-converter)** | A Go / Fyne media converter for video, audio, and container conversion. |
 
-#### Finance & data analysis
+#### <img src="assets/profile-icons/finance.svg" width="20" height="20" alt="" /> Finance & data analysis
 
 | Platform / format | Project | Purpose |
 | :--- | :--- | :--- |
@@ -163,7 +163,7 @@ Projects grouped by focus, with their platforms and purpose.
 
 ---
 
-### Let's Connect
+### <img src="assets/profile-icons/contact.svg" width="24" height="24" alt="" /> Let's Connect
 
 <p align="center">
   <a href="mailto:1804534439@qq.com">
