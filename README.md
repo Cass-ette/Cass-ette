@@ -109,7 +109,7 @@ current_focus: Creating awesome projects
 Turn match data into a post-match film: player comparisons, animated radar charts, and video export for Dota 2, LoL, and CS.
 
 <p align="center">
-  <a href="https://github.com/Cass-ette/matchcut"><img src="assets/projects/matchcut-faker-chovy.jpg" width="680" alt="Matchcut video output: Faker vs Chovy League of Legends radar comparison" /></a>
+  <a href="https://github.com/Cass-ette/matchcut"><img src="assets/projects/matchcut-faker-aug16-g2.jpg" width="680" alt="Matchcut current video output: Faker portrait, equipment and runes, Gen.G vs T1, August 16, 2026, game 2" /></a>
 </p>
 
 - [fastlol](https://github.com/Cass-ette/fastlol) · `CLI` — League of Legends data, with U.GG scraping.

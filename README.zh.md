@@ -109,7 +109,7 @@ current_focus: 创造更多有趣的项目
 从比赛数据到赛后视频：选手对位、动态雷达图与视频导出，支持 Dota 2、英雄联盟和 CS。
 
 <p align="center">
-  <a href="https://github.com/Cass-ette/matchcut"><img src="assets/projects/matchcut-faker-chovy.jpg" width="680" alt="Matchcut 实际导出画面：Faker 与 Chovy 的英雄联盟对位雷达图" /></a>
+  <a href="https://github.com/Cass-ette/matchcut"><img src="assets/projects/matchcut-faker-aug16-g2.jpg" width="680" alt="Matchcut 新版实际导出：2026 年 8 月 16 日 Gen.G 对 T1 第二局，Faker 定妆照、装备与符文" /></a>
 </p>
 
 - [fastlol](https://github.com/Cass-ette/fastlol) · `命令行` — 英雄联盟数据工具，支持 U.GG 数据抓取。
