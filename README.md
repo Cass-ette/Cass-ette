@@ -142,14 +142,28 @@ Passwords, keys, TOTP codes, and sensitive notes in a local encrypted vault, unl
 A language for backend and automation work, from an interpreter and type checker to a C compilation backend.
 
 - [algosketch](https://github.com/Cass-ette/algosketch) · `CLI` — Turn Python, Java, C++, and Go algorithms into pseudocode and explanations.
-- [DevMacpp](https://github.com/Cass-ette/DevMacpp) · `macOS` — A C++ editor for algorithm practice and competitive programming.
+
+<a href="https://github.com/Cass-ette/DevMacpp"><img align="right" src="assets/projects/devmacpp.png" width="64" height="64" alt="DevMac++ app icon" /></a>
+
+**[DevMacpp](https://github.com/Cass-ette/DevMacpp)** · `macOS`<br />
+A C++ editor for algorithm practice and competitive programming.<br />
+<sub>C++ · macOS · Algorithm practice</sub>
+
+<br clear="both" />
 
 #### <img src="assets/profile-icons/network.svg" width="20" height="20" alt="" /> Networking & self-hosting
 
 **[NetKitX](https://github.com/Cass-ette/NetKitX)** · `Web / server`<br />
 A network security workspace with plugin management, live tasks, and topology views.
 
-- [ProxyCat](https://github.com/Cass-ette/ProxyCat) · `macOS` — Menu bar proxy management, subscriptions, and connectivity diagnostics.
+<a href="https://github.com/Cass-ette/ProxyCat"><img align="right" src="assets/projects/proxycat.png" width="64" height="64" alt="ProxyCat app icon" /></a>
+
+**[ProxyCat](https://github.com/Cass-ette/ProxyCat)** · `macOS`<br />
+Menu bar proxy management with subscriptions, system proxy status, and connectivity diagnostics.<br />
+<sub>SwiftUI · Go · Mihomo</sub>
+
+<br clear="both" />
+
 - [MAA Remoter](https://github.com/Cass-ette/ArknightsMaaRemoter-) · `Web / server` — A self-hosted MAA backend and dashboard for remote tasks, status, and screenshots.
 
 #### <img src="assets/profile-icons/finance.svg" width="20" height="20" alt="" /> Finance & data analysis
@@ -181,11 +195,9 @@ Manage fund holdings across accounts, track NAV, and see where returns come from
 
 <p align="center">
   <a href="mailto:1804534439@qq.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-58A6FF?style=flat" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Cass-ette.Cass-ette&left_text=Profile%20views&left_color=%23555555&right_color=%2358A6FF" alt="Profile views"/>
 </p>
 

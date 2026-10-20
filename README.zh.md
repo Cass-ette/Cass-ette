@@ -142,14 +142,28 @@ current_focus: 创造更多有趣的项目
 面向后端与自动化的语言，从解释器、类型检查器，一直做到 C 编译后端。
 
 - [algosketch](https://github.com/Cass-ette/algosketch) · `命令行` — 把 Python、Java、C++、Go 的算法代码转为伪代码与中英文解释。
-- [DevMacpp](https://github.com/Cass-ette/DevMacpp) · `macOS` — 面向算法练习与竞赛编程的 C++ 编辑器。
+
+<a href="https://github.com/Cass-ette/DevMacpp"><img align="right" src="assets/projects/devmacpp.png" width="64" height="64" alt="DevMac++ 应用图标" /></a>
+
+**[DevMacpp](https://github.com/Cass-ette/DevMacpp)** · `macOS`<br />
+面向算法练习与竞赛编程的 C++ 编辑器。<br />
+<sub>C++ · macOS · 算法练习</sub>
+
+<br clear="both" />
 
 #### <img src="assets/profile-icons/network.svg" width="20" height="20" alt="" /> 网络与自托管
 
 **[NetKitX](https://github.com/Cass-ette/NetKitX)** · `Web / 服务端`<br />
 把插件管理、实时任务与网络拓扑整合到一起的网络安全工具平台。
 
-- [ProxyCat](https://github.com/Cass-ette/ProxyCat) · `macOS` — 菜单栏代理管理，支持订阅、系统代理状态与连通性诊断。
+<a href="https://github.com/Cass-ette/ProxyCat"><img align="right" src="assets/projects/proxycat.png" width="64" height="64" alt="ProxyCat 应用图标" /></a>
+
+**[ProxyCat](https://github.com/Cass-ette/ProxyCat)** · `macOS`<br />
+菜单栏代理管理，支持订阅、系统代理状态与连通性诊断。<br />
+<sub>SwiftUI · Go · Mihomo</sub>
+
+<br clear="both" />
+
 - [MAA Remoter](https://github.com/Cass-ette/ArknightsMaaRemoter-) · `Web / 服务端` — 自托管的 MAA 远程控制后端与面板，支持任务下发、状态与截图。
 
 #### <img src="assets/profile-icons/finance.svg" width="20" height="20" alt="" /> 金融与数据分析
@@ -181,11 +195,9 @@ current_focus: 创造更多有趣的项目
 
 <p align="center">
   <a href="mailto:1804534439@qq.com">
-    <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-%E8%81%94%E7%B3%BB-58A6FF?style=flat" alt="邮箱"/>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Cass-ette.Cass-ette&left_text=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F&left_color=%23555555&right_color=%2358A6FF" alt="Profile views"/>
 </p>
 
