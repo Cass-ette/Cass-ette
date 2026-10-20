@@ -153,10 +153,14 @@ A C++ editor for algorithm practice and competitive programming.<br />
 
 #### <img src="assets/profile-icons/network.svg" width="20" height="20" alt="" /> Networking & self-hosting
 
+<a href="https://github.com/Cass-ette/NetKitX"><img align="right" src="assets/projects/netkitx.svg" width="64" height="64" alt="NetKitX project icon" /></a>
+
 **[NetKitX](https://github.com/Cass-ette/NetKitX)** · `Web / server`<br />
 A network security workspace with plugin management, live tasks, and topology views.
 
-<a href="https://github.com/Cass-ette/ProxyCat"><img align="right" src="assets/projects/proxycat.png" width="64" height="64" alt="ProxyCat app icon" /></a>
+<br clear="both" />
+
+<a href="https://github.com/Cass-ette/ProxyCat"><img align="right" src="assets/projects/proxycat-transparent.png" width="64" height="64" alt="ProxyCat app icon" /></a>
 
 **[ProxyCat](https://github.com/Cass-ette/ProxyCat)** · `macOS`<br />
 Menu bar proxy management with subscriptions, system proxy status, and connectivity diagnostics.<br />

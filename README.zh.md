@@ -153,10 +153,14 @@ current_focus: 创造更多有趣的项目
 
 #### <img src="assets/profile-icons/network.svg" width="20" height="20" alt="" /> 网络与自托管
 
+<a href="https://github.com/Cass-ette/NetKitX"><img align="right" src="assets/projects/netkitx.svg" width="64" height="64" alt="NetKitX 项目图标" /></a>
+
 **[NetKitX](https://github.com/Cass-ette/NetKitX)** · `Web / 服务端`<br />
 把插件管理、实时任务与网络拓扑整合到一起的网络安全工具平台。
 
-<a href="https://github.com/Cass-ette/ProxyCat"><img align="right" src="assets/projects/proxycat.png" width="64" height="64" alt="ProxyCat 应用图标" /></a>
+<br clear="both" />
+
+<a href="https://github.com/Cass-ette/ProxyCat"><img align="right" src="assets/projects/proxycat-transparent.png" width="64" height="64" alt="ProxyCat 应用图标" /></a>
 
 **[ProxyCat](https://github.com/Cass-ette/ProxyCat)** · `macOS`<br />
 菜单栏代理管理，支持订阅、系统代理状态与连通性诊断。<br />
