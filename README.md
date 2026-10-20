@@ -186,7 +186,7 @@ Manage fund holdings across accounts, track NAV, and see where returns come from
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cass-ette&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Cass-ette&color=58A6FF&style=for-the-badge&label=Profile+Views&v=2" alt="Profile views"/>
 </p>
 
 <p align="center">

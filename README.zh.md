@@ -186,7 +186,7 @@ current_focus: 创造更多有趣的项目
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cass-ette&color=58A6FF&style=for-the-badge&label=主页访问量" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Cass-ette&color=58A6FF&style=for-the-badge&label=主页访问量&v=2" alt="Profile views"/>
 </p>
 
 <p align="center">
