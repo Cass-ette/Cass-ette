@@ -160,7 +160,7 @@ A network security workspace with plugin management, live tasks, and topology vi
 
 <br clear="both" />
 
-<a href="https://github.com/Cass-ette/ProxyCat"><img align="right" src="assets/projects/proxycat-transparent.png" width="64" height="64" alt="ProxyCat app icon" /></a>
+<a href="https://github.com/Cass-ette/ProxyCat"><img align="right" src="assets/projects/proxycat-silhouette.png" width="64" height="64" alt="ProxyCat app icon" /></a>
 
 **[ProxyCat](https://github.com/Cass-ette/ProxyCat)** · `macOS`<br />
 Menu bar proxy management with subscriptions, system proxy status, and connectivity diagnostics.<br />
